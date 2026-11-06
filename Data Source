@@ -1,0 +1,9 @@
+Download the ZIP containing approximately 8,000 images.
+Download Flickr8k_Dataset.zip : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip?utm_source=chatgpt.com
+
+Contains the 40,000 captions and train, validation and test split files.
+Download Flickr8k_text.zip :-https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip?utm_source=chatgpt.com
+
+Alternative dataset source
+You can also access the dataset through Hugging Face:
+Flickr8k on Hugging Face:https://huggingface.co/datasets/intro/flickr8k?utm_source=chatgpt.com
