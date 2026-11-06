@@ -1,0 +1,31 @@
+PHASE 5: CONFIDENCE, ERROR ANALYSIS AND VISUAL EXPLAINABILITY
+============================================================
+
+Completed analyses:
+1. Word-level confidence analysis on 1,000 test images.
+2. Token-level confidence records: 13,647.
+3. Repetition and low-confidence caption analysis.
+4. ViT cross-attention visualization.
+5. Manual verification of a caption mismatch against five reference captions.
+
+Key results:
+- Mean image-level confidence: 0.4129.
+- Mean unique-word ratio: 0.8085.
+- Example image: 1096395242_fc69f0ae5a.jpg
+- Fresh generated caption: a boy in a red shirt is playing with a toy on a chair in the floor.
+- Reference captions describe a boy playing with a toy.
+- The example has possible unsupported details that warrant further review.
+
+Important limitations:
+- Confidence is not a measure of factual correctness.
+- Attention maps are exploratory and do not prove why a caption was generated.
+- A single example does not establish the overall hallucination rate.
+
+Output files:
+- word_confidence_captions.csv
+- word_confidence_tokens.csv
+- phase5_error_analysis.csv
+- confidence_distribution.png
+- lowest_confidence_captions.png
+- verified_visual_error_cases.csv
+- attention_boy_toy_fresh.png

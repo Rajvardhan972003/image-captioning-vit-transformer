@@ -1,0 +1,11 @@
+{
+    "model": "ResNet-50 + LSTM",
+    "best_epoch": 4,
+    "best_validation_loss": 3.240390560429567,
+    "BLEU-1": 0.4704,
+    "BLEU-2": 0.309,
+    "BLEU-3": 0.1942,
+    "BLEU-4": 0.1247,
+    "METEOR": 0.3483,
+    "ROUGE-L": 0.3821
+}

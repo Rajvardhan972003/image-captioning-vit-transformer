@@ -1,0 +1,31 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment and system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Cached features and temporary outputs
+notebook/cached_features/
+notebook/vit_cached_features/
+notebook/experimental_evaluation/
+*.npy
+*.pkl
+*.pt
+
+# Intermediate checkpoints
+notebook/checkpoints/
+notebook/checkpoints_vit_transformer/
+
+# Temporary files
+*.log
+*.tmp

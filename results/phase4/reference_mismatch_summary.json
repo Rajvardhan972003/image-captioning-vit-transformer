@@ -1,0 +1,7 @@
+{
+  "total_predictions": 1000,
+  "mean_reference_concept_coverage": 0.5520833333333333,
+  "low_coverage_flags": 359,
+  "coverage_threshold": 0.5,
+  "note": "Reference-based heuristic; flags indicate possible mismatches, not confirmed visual hallucinations."
+}

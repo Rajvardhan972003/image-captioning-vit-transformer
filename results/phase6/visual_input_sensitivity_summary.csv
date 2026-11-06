@@ -1,0 +1,2 @@
+images_tested,captions_changed,caption_change_rate_percent,unique_normal_captions,unique_zero_visual_captions,normal_caption_diversity_percent,zero_visual_caption_diversity_percent
+100,100,100.0,100,1,100.0,1.0

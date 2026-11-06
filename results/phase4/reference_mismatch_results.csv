@@ -1,0 +1,1001 @@
+image,generated_caption,generated_concepts,reference_concepts,unsupported_concepts,unsupported_count,reference_concept_coverage,reference_mismatch_flag
+1056338697_4f7d7ce270.jpg,a girl in a blue shirt is jumping into the air.,"['girl', 'jumping', 'shirt']","['dress', 'shirt', 'woman']","['girl', 'jumping']",2,0.3333333333333333,True
+106490881_5a2dd9b7bd.jpg,a boy in a blue shirt is running in the ocean.,"['boy', 'ocean', 'running', 'shirt']","['beach', 'boy', 'ocean', 'playing', 'swimming', 'walking']","['running', 'shirt']",2,0.5,False
+1082379191_ec1e53f996.jpg,a man sitting on a bench in the middle of a boat on a lake.,"['bench', 'boat', 'lake', 'man', 'sitting']","['lake', 'man', 'shirt', 'sitting', 'woman']","['bench', 'boat']",2,0.6,False
+1084040636_97d9633581.jpg,a white dog is standing in the water with a stick in its mouth.,"['dog', 'standing', 'water']",['dog'],"['standing', 'water']",2,0.3333333333333333,True
+1096395242_fc69f0ae5a.jpg,a boy in a red shirt is playing with a toy on a chair in the floor.,"['boy', 'chair', 'playing', 'shirt']","['boy', 'child', 'playing']","['chair', 'shirt']",2,0.5,False
+1107246521_d16a476380.jpg,a black dog is running through the grass with a red ball.,"['ball', 'dog', 'running']","['ball', 'dog', 'jumping', 'playing', 'running']",[],0,1.0,False
+1119015538_e8e796281e.jpg,a white dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+1122944218_8eb3607403.jpg,a young boy wearing a white shirt is holding a stick while holding a camera and holding a stick in his hand.,"['boy', 'shirt']",[],"['boy', 'shirt']",2,0.0,True
+1131800850_89c7ffd477.jpg,a dog is running through the water.,"['dog', 'running', 'water']","['dog', 'water']",['running'],1,0.6666666666666666,False
+1131932671_c8d17751b3.jpg,a boy in a blue shirt is jumping on a bed in the air while another boy is in the air.,"['boy', 'jumping', 'shirt']","['boy', 'child', 'jumping']",['shirt'],1,0.6666666666666666,False
+113678030_87a6a6e42e.jpg,two people are sitting on a snowy mountain.,"['people', 'sitting']",['sitting'],['people'],1,0.5,False
+114051287_dd85625a04.jpg,two men sitting on a white bench in front of a car.,"['bench', 'car', 'sitting']","['boy', 'car', 'child', 'shirt']","['bench', 'sitting']",2,0.3333333333333333,True
+115684808_cb01227802.jpg,two people are sitting on a snow covered mountain.,"['people', 'sitting']","['boat', 'people', 'standing']",['sitting'],1,0.5,False
+1167669558_87a8a467d6.jpg,a man in a yellow shirt is holding a cigarette in his mouth.,"['man', 'shirt']","['man', 'shirt']",[],0,1.0,False
+1174525839_7c1e6cfa86.jpg,a boy in blue shorts is running on a beach.,"['beach', 'boy', 'running']","['beach', 'girl', 'jumping', 'ocean', 'running', 'standing']",['boy'],1,0.6666666666666666,False
+1174629344_a2e1a2bdbf.jpg,a group of people are walking down a city street.,"['people', 'walking']","['people', 'walking']",[],0,1.0,False
+1220401002_3f44b1f3f7.jpg,a girl in a blue shirt is running through the grass.,"['girl', 'running', 'shirt']","['playing', 'standing']","['girl', 'running', 'shirt']",3,0.0,True
+1224851143_33bcdd299c.jpg,a boy in a green shirt is holding a baby in his mouth.,"['boy', 'shirt']","['boy', 'chair', 'child', 'sitting']",['shirt'],1,0.5,False
+1237985362_dbafc59280.jpg,a boy in a blue shirt is holding a blue and blue and blue and blue and blue shirt and blue and blue and blue shirt is holding a blue and blue and blue and blue and,"['boy', 'shirt']","['dress', 'girl', 'playing', 'shirt', 'woman']",['boy'],1,0.5,False
+1248940539_46d33ed487.jpg,a little girl is jumping in the sand with a blue shirt and blue sky.,"['girl', 'jumping', 'shirt']","['beach', 'playing']","['girl', 'jumping', 'shirt']",3,0.0,True
+1258913059_07c613f7ff.jpg,a woman and a woman are sitting on a bench in front of a building.,"['bench', 'building', 'sitting', 'woman']","['bench', 'building', 'people', 'sitting', 'table']",['woman'],1,0.75,False
+1262583859_653f1469a9.jpg,a man in a green shirt is riding a bike on a street.,"['man', 'riding', 'shirt']","['bicycle', 'man', 'riding', 'shirt']",[],0,1.0,False
+1267711451_e2a754b4f8.jpg,a dog is running through a field with a stick in its mouth.,"['dog', 'running']","['dog', 'walking']",['running'],1,0.5,False
+127488876_f2d2a89588.jpg,two people are walking through a grassy field.,"['people', 'walking']","['man', 'playing', 'shirt', 'standing']","['people', 'walking']",2,0.0,True
+127490019_7c5c08cb11.jpg,a man in a blue shirt is standing in front of a large building.,"['building', 'man', 'shirt', 'standing']","['girl', 'hat', 'shirt', 'woman']","['building', 'man', 'standing']",3,0.25,True
+1282392036_5a0328eb86.jpg,a woman in a red dress is sitting on a red and white bench with a red and black and white striped shirt and white striped shirt and red and white striped shirt and white striped shirt,"['bench', 'dress', 'shirt', 'sitting', 'woman']","['child', 'girl', 'people', 'sitting', 'woman']","['bench', 'dress', 'shirt']",3,0.4,True
+1287073593_f3d2a62455.jpg,a group of people are walking through the snow with a sled in the snow.,"['people', 'walking']","['dog', 'man', 'person']","['people', 'walking']",2,0.0,True
+1287475186_2dee85f1a5.jpg,a boy in a swimming pool with water in the background.,"['boy', 'swimming', 'water']","['boy', 'sitting', 'swimming', 'water']",[],0,1.0,False
+1298295313_db1f4c6522.jpg,a young boy jumping off a wooden ramp into the water.,"['boy', 'jumping', 'water']","['boy', 'jumping', 'lake', 'water']",[],0,1.0,False
+1311388430_4ab0cd1a1f.jpg,a man is jumping over a hill with a rope in the background.,"['jumping', 'man']",['person'],"['jumping', 'man']",2,0.0,True
+1317292658_ba29330a0b.jpg,a boy is jumping into the water while holding a rope in his mouth.,"['boy', 'jumping', 'water']","['boy', 'standing', 'swimming', 'water']",['jumping'],1,0.6666666666666666,False
+1322323208_c7ecb742c6.jpg,two people are standing on the beach near the ocean.,"['beach', 'ocean', 'people', 'standing']","['beach', 'boy', 'girl', 'playing', 'standing']","['ocean', 'people']",2,0.5,False
+132489044_3be606baf7.jpg,a man in a black shirt is sitting on a white chair in front of a white building.,"['building', 'chair', 'man', 'shirt', 'sitting']","['man', 'riding', 'train']","['building', 'chair', 'shirt', 'sitting']",4,0.2,True
+1329832826_432538d331.jpg,a man in a red shirt is standing in front of a red sign.,"['man', 'shirt', 'standing']",['people'],"['man', 'shirt', 'standing']",3,0.0,True
+1332722096_1e3de8ae70.jpg,two women are walking down a street with a blue and a man in the background.,"['man', 'walking']","['standing', 'walking', 'woman']",['man'],1,0.5,False
+1339596997_8ac29c1841.jpg,a girl in a pink dress is standing in front of a white building.,"['building', 'dress', 'girl', 'standing']",['standing'],"['building', 'dress', 'girl']",3,0.25,True
+1343426964_cde3fb54e8.jpg,a boy wearing a blue shirt is sitting on a green slide.,"['boy', 'shirt', 'sitting']","['beach', 'boy', 'child', 'girl', 'man', 'shirt', 'swimming', 'water']",['sitting'],1,0.6666666666666666,False
+1348304997_afe60a61df.jpg,a girl is jumping off a wooden ramp.,"['girl', 'jumping']","['child', 'girl', 'jumping']",[],0,1.0,False
+1352410176_af6b139734.jpg,a little girl is jumping over a small pole.,"['girl', 'jumping']","['beach', 'girl', 'ocean', 'walking']",['jumping'],1,0.5,False
+1356796100_b265479721.jpg,a girl in a red dress is standing in the grass with a tree in the background.,"['dress', 'girl', 'standing']","['dress', 'girl']",['standing'],1,0.6666666666666666,False
+136552115_6dc3e7231c.jpg,a person riding a bike on a dirt bike in the woods.,"['person', 'riding']","['jumping', 'man', 'person']",['riding'],1,0.5,False
+136644343_0e2b423829.jpg,a boy is swinging on a swing in the air.,['boy'],['boy'],[],0,1.0,False
+136886677_6026c622eb.jpg,a man is standing in a lake.,"['lake', 'man', 'standing']","['boat', 'man', 'river']","['lake', 'standing']",2,0.3333333333333333,True
+1386964743_9e80d96b05.jpg,a girl in a white shirt is walking through a field with a large stick.,"['girl', 'shirt', 'walking']","['boy', 'car', 'child', 'playing', 'standing']","['girl', 'shirt', 'walking']",3,0.0,True
+138718600_f430ebca17.jpg,a group of people are riding a bike in the woods.,"['people', 'riding']","['people', 'river', 'sitting', 'standing', 'water']",['riding'],1,0.5,False
+1387785218_cee67735f5.jpg,a little boy is playing on a red leash.,"['boy', 'playing']","['child', 'girl']","['boy', 'playing']",2,0.0,True
+1389264266_8170bc1c54.jpg,a woman in a red dress is standing in front of a building.,"['building', 'dress', 'standing', 'woman']","['girl', 'shirt', 'walking']","['building', 'dress', 'standing', 'woman']",4,0.0,True
+1392272228_cf104086e6.jpg,a black dog is running through the water.,"['dog', 'running', 'water']","['beach', 'dog', 'ocean', 'walking', 'water']",['running'],1,0.6666666666666666,False
+1394368714_3bc7c19969.jpg,a man and a dog are sitting on a stone wall with a blue and a man in the background.,"['dog', 'man', 'sitting']","['dog', 'man', 'person']",['sitting'],1,0.6666666666666666,False
+1402640441_81978e32a9.jpg,a boy in a blue shirt is running in the sand.,"['boy', 'running', 'shirt']","['ball', 'beach', 'boy', 'running']",['shirt'],1,0.6666666666666666,False
+1404832008_68e432665b.jpg,a man is swinging on a rope above the water.,"['man', 'water']","['man', 'water']",[],0,1.0,False
+1408958345_68eea9a4e4.jpg,a young girl in a bathing suit is running on the beach.,"['beach', 'girl', 'running']","['beach', 'girl', 'running']",[],0,1.0,False
+1415591512_a84644750c.jpg,a girl in a red shirt is jumping in the air with a white shirt and black shirt and white shirt and blue jeans in the background.,"['girl', 'jumping', 'shirt']","['car', 'girl', 'playing']","['jumping', 'shirt']",2,0.3333333333333333,True
+1417031097_ab656bc4bd.jpg,a person is sitting on a wooden ramp with a white and black and white bag in the background.,"['person', 'sitting']","['people', 'person']",['sitting'],1,0.5,False
+1425069308_488e5fcf9d.jpg,a dog is jumping on a bed in the air while another dog is playing with a man in the background.,"['dog', 'jumping', 'man', 'playing']","['ball', 'dog', 'jumping', 'playing']",['man'],1,0.75,False
+1427391496_ea512cbe7f.jpg,a boy is standing on a wooden bench.,"['bench', 'boy', 'standing']","['boy', 'child', 'shirt', 'standing', 'table', 'water']",['bench'],1,0.6666666666666666,False
+1432179046_8e3d75cf81.jpg,two men walking on a sidewalk in the street.,['walking'],"['building', 'car', 'man', 'playing']",['walking'],1,0.0,True
+1433142189_cda8652603.jpg,a man in a blue shirt is walking through a grassy field with a large rock.,"['man', 'shirt', 'walking']","['man', 'person', 'walking']",['shirt'],1,0.6666666666666666,False
+143688283_a96ded20f1.jpg,a man in a white shirt and brown shirt is standing on a rock climbing and looking at the camera.,"['man', 'shirt', 'standing']","['helmet', 'man', 'shirt']",['standing'],1,0.6666666666666666,False
+1446053356_a924b4893f.jpg,two young boys play soccer on a field,[],['playing'],[],0,1.0,False
+1456393634_74022d9056.jpg,a boy is running on the beach with a small dog.,"['beach', 'boy', 'dog', 'running']","['beach', 'boy', 'child']","['dog', 'running']",2,0.5,False
+1461667284_041c8a2475.jpg,a man and a woman are sitting on a chair on a bench with a guitar.,"['bench', 'chair', 'man', 'sitting', 'woman']","['boy', 'hat', 'man', 'people', 'playing', 'woman']","['bench', 'chair', 'sitting']",3,0.4,True
+1467533293_a2656cc000.jpg,two girls are sitting on a red swing in front of a red building.,"['building', 'sitting']",['playing'],"['building', 'sitting']",2,0.0,True
+1472230829_803818a383.jpg,a group of people are riding a green kayak through the water.,"['people', 'riding', 'water']","['boat', 'people', 'riding', 'river', 'water']",[],0,1.0,False
+1472882567_33dc14c8b6.jpg,a man skiing down a snowy mountain.,"['man', 'skiing']","['people', 'walking']","['man', 'skiing']",2,0.0,True
+1490213660_9ea45550cf.jpg,a dog is swimming in the water.,"['dog', 'swimming', 'water']","['dog', 'river', 'walking']","['swimming', 'water']",2,0.3333333333333333,True
+1490670858_e122df2560.jpg,a boy is sliding down a red slide.,['boy'],"['boy', 'child']",[],0,1.0,False
+1499581619_a5f65a882c.jpg,a man and woman are walking on the beach with a black dog.,"['beach', 'dog', 'man', 'walking', 'woman']","['beach', 'girl', 'man', 'people', 'woman']","['dog', 'walking']",2,0.6,False
+150387174_24825cf871.jpg,a man in a black jacket and white jacket is riding a red bike on a rocky hill.,"['man', 'riding']","['helmet', 'man', 'motorcycle', 'riding']",[],0,1.0,False
+1509786421_f03158adfc.jpg,a boy with a blue shirt is holding a baby in his mouth.,"['boy', 'shirt']","['boy', 'child', 'man', 'shirt']",[],0,1.0,False
+1517721825_10176d0683.jpg,two dogs are playing in the water.,"['playing', 'water']","['dog', 'ocean', 'running', 'water']",['playing'],1,0.5,False
+1523984678_edd68464da.jpg,a dog is running in the grass with a tennis ball.,"['ball', 'dog', 'running']","['ball', 'dog', 'running']",[],0,1.0,False
+1536774449_e16b1b6382.jpg,a group of people are standing on a city street.,"['people', 'standing']","['building', 'people']",['standing'],1,0.5,False
+1547883892_e29b3db42e.jpg,a woman in a white shirt and brown hat is sitting on a wooden bench.,"['bench', 'hat', 'shirt', 'sitting', 'woman']","['girl', 'hat', 'woman']","['bench', 'shirt', 'sitting']",3,0.4,True
+154871781_ae77696b77.jpg,two boys are playing soccer in a field with a tree.,['playing'],['ball'],['playing'],1,0.0,True
+1554713437_61b64527dd.jpg,a dog is climbing over a tree branch in a wooded area.,['dog'],"['dog', 'walking']",[],0,1.0,False
+1561658940_a947f2446a.jpg,a girl in a blue shirt is swinging on a swing in a swing,"['girl', 'shirt']",['girl'],['shirt'],1,0.5,False
+1572532018_64c030c974.jpg,two boys are playing in the sand on the beach.,"['beach', 'playing']","['beach', 'boy', 'man', 'playing', 'running', 'water']",[],0,1.0,False
+1584315962_5b0b45d02d.jpg,a snowboarder is skiing down a snowy hill.,['skiing'],"['man', 'person']",['skiing'],1,0.0,True
+160792599_6a7ec52516.jpg,three men are standing on the beach with a man in the background.,"['beach', 'man', 'standing']","['ocean', 'people', 'standing', 'water']","['beach', 'man']",2,0.3333333333333333,True
+1626754053_81126b67b6.jpg,a black and white dog is running through the grass with a red frisbee.,"['dog', 'running']","['dog', 'jumping']",['running'],1,0.5,False
+1659358141_0433c9bf99.jpg,a brown dog is chewing on the grass with a blue collar in its mouth.,['dog'],"['dog', 'running']",[],0,1.0,False
+166507476_9be5b9852a.jpg,a large bird is standing in the water.,"['bird', 'standing', 'water']","['standing', 'water']",['bird'],1,0.6666666666666666,False
+1674612291_7154c5ab61.jpg,a white dog jumps in the air to catch a ball.,"['ball', 'dog']","['dog', 'jumping']",['ball'],1,0.5,False
+1679617928_a73c1769be.jpg,a person in a yellow jacket is sitting on a yellow car with a yellow and white and black and white dog in the background.,"['car', 'dog', 'person', 'sitting']","['bus', 'car', 'dog']","['person', 'sitting']",2,0.5,False
+1682079482_9a72fa57fa.jpg,a little girl in a pink dress is sitting on a swing and holding a swing,"['dress', 'girl', 'sitting']","['girl', 'shirt']","['dress', 'sitting']",2,0.3333333333333333,True
+170100272_d820db2199.jpg,a person is riding a bike on a wooden bench.,"['bench', 'person', 'riding']","['child', 'girl']","['bench', 'person', 'riding']",3,0.0,True
+1714316707_8bbaa2a2ba.jpg,a boy in a red jacket is walking through the snow covered in the snow.,"['boy', 'walking']","['boy', 'child', 'person', 'standing']",['walking'],1,0.5,False
+172097782_f0844ec317.jpg,a man in a red shirt is jumping over a rope in the water.,"['jumping', 'man', 'shirt', 'water']","['man', 'person', 'skiing', 'swimming']","['jumping', 'shirt', 'water']",3,0.25,True
+1764955991_5e53a28c87.jpg,a dog is running through the woods.,"['dog', 'running']","['ball', 'dog', 'running']",[],0,1.0,False
+1765164972_92dac06fa9.jpg,a boy in a red shirt is holding a cup in his mouth.,"['boy', 'shirt']","['girl', 'person', 'shirt']",['boy'],1,0.5,False
+1772859261_236c09b861.jpg,a black and white dog is swimming in the water.,"['dog', 'swimming', 'water']","['dog', 'walking', 'water']",['swimming'],1,0.6666666666666666,False
+1773928579_5664a810dc.jpg,a brown dog is jumping over a blue and white pole in the air while a man watches.,"['dog', 'jumping', 'man']","['dog', 'people', 'running']","['jumping', 'man']",2,0.3333333333333333,True
+1786425974_c7c5ad6aa1.jpg,two dogs run through the dirt.,[],"['ball', 'beach', 'dog', 'person']",[],0,1.0,False
+180094434_b0f244832d.jpg,a group of people are playing in a fountain in a city street.,"['people', 'playing']","['building', 'people', 'playing']",[],0,1.0,False
+180506881_de0f59770f.jpg,a man in a white shirt and blue jeans is standing on a sidewalk next to a brick wall.,"['man', 'shirt', 'standing']","['people', 'skateboard', 'walking']","['man', 'shirt', 'standing']",3,0.0,True
+1808370027_2088394eb4.jpg,a dog is jumping into the water with a stick in its mouth.,"['dog', 'jumping', 'water']","['dog', 'swimming', 'water']",['jumping'],1,0.6666666666666666,False
+1836335410_de8313a64e.jpg,a man in a black jacket is standing next to a large building.,"['building', 'man', 'standing']","['man', 'playing']","['building', 'standing']",2,0.3333333333333333,True
+1897025969_0c41688fa6.jpg,two dogs are playing in the sand.,['playing'],"['dog', 'standing']",['playing'],1,0.0,True
+189721896_1ffe76d89e.jpg,a person in a red shirt climbs a rock face.,"['person', 'shirt']","['man', 'shirt']",['person'],1,0.5,False
+191003285_edd8d0cf58.jpg,two men sitting on a sidewalk with a white shirt and a man in the background.,"['man', 'shirt', 'sitting']","['dress', 'girl', 'man', 'shirt', 'sitting']",[],0,1.0,False
+1917265421_aeccf1ca38.jpg,a boy and a boy are playing in a field with a crowd of people.,"['boy', 'people', 'playing']","['people', 'playing']",['boy'],1,0.6666666666666666,False
+1962729184_6996e128e7.jpg,a group of people are standing outside a building with a building in the background.,"['building', 'people', 'standing']","['girl', 'people', 'standing', 'water']",['building'],1,0.6666666666666666,False
+197107117_4b438b1872.jpg,a man is rock climbing.,['man'],['person'],['man'],1,0.0,True
+197504190_fd1fc3d4b7.jpg,two men are playing soccer on a grassy field with a soccer ball.,"['ball', 'playing']","['ball', 'playing']",[],0,1.0,False
+1982852140_56425fa7a2.jpg,a man and a woman are playing in the ocean on the beach.,"['beach', 'man', 'ocean', 'playing', 'woman']","['beach', 'child', 'girl', 'ocean', 'people', 'playing', 'running', 'woman']",['man'],1,0.8,False
+1998457059_c9ac9a1e1a.jpg,a man in a yellow kayak is surfing in the ocean with a yellow kayak on the ocean.,"['man', 'ocean', 'surfing']","['beach', 'child', 'ocean', 'people', 'riding', 'standing', 'surfboard', 'water']","['man', 'surfing']",2,0.3333333333333333,True
+200771289_31902164a7.jpg,a man in black is standing in front of a large white building.,"['building', 'man', 'standing']",[],"['building', 'man', 'standing']",3,0.0,True
+2021613437_d99731f986.jpg,a boy in a white shirt is running on a basketball court.,"['boy', 'running', 'shirt']","['boy', 'child', 'shirt']",['running'],1,0.6666666666666666,False
+2041867793_552819a40b.jpg,a person is sitting at a table with a blue and a blue and blue and blue shirt and blue shirt is sitting in the background.,"['person', 'shirt', 'sitting', 'table']","['boy', 'child', 'sitting', 'table']","['person', 'shirt']",2,0.5,False
+2049051050_20359a434a.jpg,a woman in a red jacket is sitting on a rock overlooking the ocean.,"['ocean', 'sitting', 'woman']","['beach', 'girl', 'hat', 'sitting', 'woman']",['ocean'],1,0.6666666666666666,False
+2054869561_ff723e9eab.jpg,a dog runs across the red ball.,"['ball', 'dog']","['dog', 'running']",['ball'],1,0.5,False
+2061144717_5b3a1864f0.jpg,a boy is standing on a sidewalk near a building.,"['boy', 'building', 'standing']","['boy', 'child', 'man', 'standing']",['building'],1,0.6666666666666666,False
+2061354254_faa5bd294b.jpg,a boy is playing baseball.,"['boy', 'playing']","['boy', 'man', 'person']",['playing'],1,0.5,False
+2064790732_219e52e19c.jpg,a boy and a boy are standing on a street in front of a crowd.,"['boy', 'standing']","['boy', 'people', 'running', 'shirt', 'walking']",['standing'],1,0.5,False
+2073105823_6dacade004.jpg,a person is doing a skateboard trick on a ramp.,"['person', 'skateboard']","['man', 'person', 'snowboard']",['skateboard'],1,0.5,False
+2073964624_52da3a0fc4.jpg,a person in a red jacket is riding a bike on a bench.,"['bench', 'person', 'riding']","['bicycle', 'hat', 'riding', 'woman']","['bench', 'person']",2,0.3333333333333333,True
+2075321027_c8fcbaf581.jpg,a boy in a black jacket and black jacket is riding a bike on a dirt road.,"['boy', 'riding']","['bicycle', 'man', 'riding']",['boy'],1,0.5,False
+2077079696_03380d218b.jpg,a man is standing on a rock overlooking a large rock overlooking a mountain.,"['man', 'standing']","['man', 'walking']",['standing'],1,0.5,False
+2078311270_f01c9eaf4c.jpg,a boy in a black jacket and blue jacket is standing in front of a tree.,"['boy', 'standing']","['hat', 'walking']","['boy', 'standing']",2,0.0,True
+2083434441_a93bc6306b.jpg,a man in a black jacket and brown jacket is walking down a street with a red and white dog.,"['dog', 'man', 'walking']","['bicycle', 'car', 'riding', 'woman']","['dog', 'man', 'walking']",3,0.0,True
+2084217208_7bd9bc85e5.jpg,a man in a blue jacket and white helmet is riding a bike on a dirt road.,"['helmet', 'man', 'riding']","['bicycle', 'helmet', 'person', 'riding', 'woman']",['man'],1,0.6666666666666666,False
+2086513494_dbbcb583e7.jpg,a woman in a white dress is holding a black and white dog.,"['dog', 'dress', 'woman']","['girl', 'people', 'woman']","['dog', 'dress']",2,0.3333333333333333,True
+2089426086_7acc98a3a8.jpg,a woman in a black shirt is standing next to a large tree with a man in the background.,"['man', 'shirt', 'standing', 'woman']",['girl'],"['man', 'shirt', 'standing', 'woman']",4,0.0,True
+2096771662_984441d20d.jpg,a man and a woman are standing in front of a large building.,"['building', 'man', 'standing', 'woman']","['man', 'people', 'standing']","['building', 'woman']",2,0.5,False
+2100816230_ff866fb352.jpg,a person is flying over a pole in the air above the air above the air.,['person'],"['jumping', 'man', 'skiing', 'skis']",['person'],1,0.0,True
+2101457132_69c950bc45.jpg,a black dog is jumping into the water.,"['dog', 'jumping', 'water']","['dog', 'jumping', 'lake', 'river', 'running', 'water']",[],0,1.0,False
+2102360862_264452db8e.jpg,two people are walking on the beach near the ocean.,"['beach', 'ocean', 'people', 'walking']","['beach', 'man', 'standing']","['ocean', 'people', 'walking']",3,0.25,True
+2103568100_5d018c495b.jpg,a white dog is walking through the water.,"['dog', 'walking', 'water']","['dog', 'river', 'standing', 'walking', 'water']",[],0,1.0,False
+2105756457_a100d8434e.jpg,a man sitting on a bench with a blue and blue blanket.,"['bench', 'man', 'sitting']","['playing', 'standing', 'table']","['bench', 'man', 'sitting']",3,0.0,True
+2112921744_92bf706805.jpg,a man is standing on a large rock overlooking a large city.,"['man', 'standing']","['dog', 'standing']",['man'],1,0.5,False
+211295363_49010ca38d.jpg,a white car is standing in the ocean.,"['car', 'ocean', 'standing']","['boat', 'water']","['car', 'ocean', 'standing']",3,0.0,True
+2120383553_5825333a3f.jpg,a little boy in a red shirt is wearing a red shirt and blue shirt and blue jeans is sitting on a wooden bench.,"['bench', 'boy', 'shirt', 'sitting']","['girl', 'playing', 'shirt']","['bench', 'boy', 'sitting']",3,0.25,True
+2120411340_104eb610b1.jpg,a white dog is running through the grass with a white dog in its mouth.,"['dog', 'running']","['cow', 'dog', 'standing']",['running'],1,0.5,False
+2124040721_bffc0a091a.jpg,a person wearing a red hat is wearing a red hat and red hat and red hat and red hat is wearing a red hat and red hat and red hat and red hat and red hat,"['hat', 'person']","['hat', 'man', 'person']",[],0,1.0,False
+2128119486_4407061c40.jpg,a boy with a blue shirt is holding a baby in his mouth.,"['boy', 'shirt']","['boy', 'child']",['shirt'],1,0.5,False
+2140182410_8e2a06fbda.jpg,a man in a red jacket is skiing down a red sled.,"['man', 'skiing']","['boy', 'child', 'person', 'sitting']","['man', 'skiing']",2,0.0,True
+2148916767_644ea6a7fa.jpg,two dogs play in the snow with a black dog in the snow.,['dog'],"['dog', 'jumping', 'playing', 'running', 'walking']",[],0,1.0,False
+215214751_e913b6ff09.jpg,a man is standing in the water.,"['man', 'standing', 'water']","['boat', 'lake', 'people', 'river']","['man', 'standing', 'water']",3,0.0,True
+2160266952_a2ab39191b.jpg,a woman in black is sitting at a green plastic plastic plastic balls.,"['sitting', 'woman']","['ball', 'boy', 'girl']","['sitting', 'woman']",2,0.0,True
+2162564553_96de62c7e6.jpg,a woman in a red shirt and blue shorts is standing on a rock overlooking the ocean.,"['ocean', 'shirt', 'standing', 'woman']","['hat', 'man', 'ocean', 'standing', 'water']","['shirt', 'woman']",2,0.5,False
+2167644298_100ca79f54.jpg,a man in a black jacket and hat is standing in front of a brick wall.,"['hat', 'man', 'standing']","['hat', 'man']",['standing'],1,0.6666666666666666,False
+2170222061_e8bce4a32d.jpg,a brown and white dog is running through the grass.,"['dog', 'running']","['cow', 'dog']",['running'],1,0.5,False
+2176980976_7054c99621.jpg,two people are sitting on a rock overlooking the mountains.,"['people', 'sitting']","['people', 'sitting', 'standing']",[],0,1.0,False
+2182488373_df73c7cc09.jpg,a man and woman are standing outside a building.,"['building', 'man', 'standing', 'woman']","['hat', 'people', 'standing', 'walking', 'woman']","['building', 'man']",2,0.5,False
+2183227136_8bb657846b.jpg,a man is standing in the ocean with a stick in the background.,"['man', 'ocean', 'standing']","['beach', 'boat', 'child', 'lake', 'ocean', 'person', 'playing']","['man', 'standing']",2,0.3333333333333333,True
+2189995738_352607a63b.jpg,a black dog is swimming in the water.,"['dog', 'swimming', 'water']","['boy', 'lake', 'people', 'playing', 'river', 'swimming', 'water']",['dog'],1,0.6666666666666666,False
+219070971_ae43410b9e.jpg,a person in a red jacket and blue jacket is riding a red bike on a rocky mountain.,"['person', 'riding']","['man', 'motorcycle']","['person', 'riding']",2,0.0,True
+2192131110_8a40e7c028.jpg,a boy is swinging on a swing,['boy'],"['girl', 'person']",['boy'],1,0.0,True
+219301555_17883a51bd.jpg,a woman in a blue shirt is standing in the water with a large waterfall.,"['shirt', 'standing', 'water', 'woman']","['shirt', 'walking', 'water', 'woman']",['standing'],1,0.75,False
+2194286203_5dc620006a.jpg,two children playing on a beach.,"['beach', 'playing']","['beach', 'boy', 'building', 'girl']",['playing'],1,0.5,False
+2194494220_bb2178832c.jpg,a person is skiing down a snowy hill.,"['person', 'skiing']","['dog', 'person', 'running', 'skiing', 'skis', 'woman']",[],0,1.0,False
+2196107384_361d73a170.jpg,a man in black pants and black pants is walking on a sidewalk in front of a building.,"['building', 'man', 'walking']","['building', 'hat', 'man', 'person', 'shirt', 'walking']",[],0,1.0,False
+2196316998_3b2d63f01f.jpg,two men wearing red uniforms are standing in front of a red and black and white building.,"['building', 'standing']","['man', 'playing']","['building', 'standing']",2,0.0,True
+2196846255_2c1635359a.jpg,a brown dog is jumping into the water.,"['dog', 'jumping', 'water']","['dog', 'ocean', 'standing', 'walking', 'water']",['jumping'],1,0.6666666666666666,False
+2197275664_fabcf3424b.jpg,a young boy in a red jacket is playing with a red and red and red and red and red and red and red and red and red and red ball.,"['ball', 'boy', 'playing']","['child', 'girl', 'house', 'playing', 'riding']","['ball', 'boy']",2,0.3333333333333333,True
+2204550058_2707d92338.jpg,a woman with a white shirt and a black hair is holding a white and white bag and smiles.,"['shirt', 'woman']",['woman'],['shirt'],1,0.5,False
+2206960564_325ed0c7ae.jpg,a small white dog is standing on a leash with a blue collar on its hind legs.,"['dog', 'standing']","['dog', 'running']",['standing'],1,0.5,False
+2207244634_1db1a1890b.jpg,a boy in red pants is doing a trick on a skateboard.,"['boy', 'skateboard']","['boy', 'helmet', 'man', 'riding', 'skateboard']",[],0,1.0,False
+2208067635_39a03834ca.jpg,a girl in a pink dress is standing on a rock wall.,"['dress', 'girl', 'standing']","['child', 'girl']","['dress', 'standing']",2,0.3333333333333333,True
+2208310655_a3d83080c5.jpg,two young boys are smiling and one is smiling and one is smiling and one is smiling and one is smiling and one is sitting on the other is wearing a blue shirt and one is holding,"['shirt', 'sitting']","['boy', 'child', 'girl', 'woman']","['shirt', 'sitting']",2,0.0,True
+2215136723_960edfea49.jpg,a snowboarder is jumping in the air while another person in the air in the air in the air,"['jumping', 'person']","['boy', 'child']","['jumping', 'person']",2,0.0,True
+2216695423_1362cb25f3.jpg,two dogs are playing in the air with a brown and white dog.,"['dog', 'playing']",['playing'],['dog'],1,0.5,False
+2218609886_892dcd6915.jpg,a man in a black jacket is sitting on a brick wall.,"['man', 'sitting']","['building', 'hat', 'man', 'sitting']",[],0,1.0,False
+2224450291_4c133fabe8.jpg,a boy in a blue shirt is standing in a large puddle of water with a large tree in the background.,"['boy', 'shirt', 'standing', 'water']","['man', 'person', 'shirt']","['boy', 'standing', 'water']",3,0.25,True
+2225231022_1632d0a5aa.jpg,a woman in a black hat and a woman in a black jacket and hat holding a red hat and a red hat and a red hat and a woman in a black hat and white shirt,"['hat', 'shirt', 'woman']","['man', 'standing']","['hat', 'shirt', 'woman']",3,0.0,True
+2228022180_9597b2a458.jpg,a group of children are standing on a red and one of people are standing in front of a group of a group of a group of a group of people.,"['people', 'standing']",['sitting'],"['people', 'standing']",2,0.0,True
+2229179070_dc8ea8582e.jpg,a man is playing with a stick in the air while a dog is playing with a man in the background.,"['dog', 'man', 'playing']","['dog', 'jumping', 'people']","['man', 'playing']",2,0.3333333333333333,True
+223299142_521aedf9e7.jpg,a person is standing in the snow with a mountain in the background.,"['person', 'standing']","['man', 'person']",['standing'],1,0.5,False
+2238019823_79318d1f11.jpg,a person is surfing a large wave in the ocean.,"['ocean', 'person', 'surfing']","['man', 'surfing']","['ocean', 'person']",2,0.3333333333333333,True
+2238759450_6475641bdb.jpg,a man is sitting on a boat with a boat on a boat in the background.,"['boat', 'man', 'sitting']","['boat', 'girl', 'water', 'woman']","['man', 'sitting']",2,0.3333333333333333,True
+2239938351_43c73c887c.jpg,two dogs are playing with a ball in the grass.,"['ball', 'playing']","['ball', 'dog', 'playing']",[],0,1.0,False
+224369028_b1ac40d1fa.jpg,a little girl is standing in front of a large fountain in front of a large fountain in a large fountain,"['girl', 'standing']","['dress', 'girl', 'standing', 'water']",[],0,1.0,False
+2247889670_413db8094b.jpg,a man and a dog are running through the snow.,"['dog', 'man', 'running']","['beach', 'dog', 'man', 'running', 'water']",[],0,1.0,False
+2248487950_c62d0c81a9.jpg,a woman and a woman are standing in front of a building with a man in the background.,"['building', 'man', 'standing', 'woman']","['man', 'woman']","['building', 'standing']",2,0.5,False
+2251747182_6b67a3ab8b.jpg,a boy in a basketball uniform is playing a basketball game.,"['boy', 'playing']","['boy', 'playing']",[],0,1.0,False
+2256133102_e2c8314ecb.jpg,a man is rock climbing.,['man'],"['man', 'ocean', 'person', 'water']",[],0,1.0,False
+2265096094_8cc34d669c.jpg,a group of people are riding a horse in the air while a dog is riding a man is riding a horse on a horse in the ground.,"['dog', 'horse', 'man', 'people', 'riding']","['boy', 'car', 'man', 'person']","['dog', 'horse', 'people', 'riding']",4,0.2,True
+226607225_44d696db6b.jpg,a man is swimming in the water.,"['man', 'swimming', 'water']","['jumping', 'water']","['man', 'swimming']",2,0.3333333333333333,True
+2271755053_e1b1ec8442.jpg,a boy in a basketball uniform is playing basketball on the court.,"['boy', 'playing']","['boy', 'playing']",[],0,1.0,False
+2274992140_bb9e868bb8.jpg,a little boy in a red shirt is holding a baby in his mouth.,"['boy', 'shirt']","['child', 'house', 'playing']","['boy', 'shirt']",2,0.0,True
+2280525192_81911f2b00.jpg,a dog is running through a field with a red ball.,"['ball', 'dog', 'running']","['dog', 'jumping', 'running']",['ball'],1,0.6666666666666666,False
+2283966256_70317e1759.jpg,a brown dog is jumping over a body of water.,"['dog', 'jumping', 'water']","['dog', 'river', 'walking']","['jumping', 'water']",2,0.3333333333333333,True
+2285570521_05015cbf4b.jpg,a skier skiing down a snowy mountain.,['skiing'],"['man', 'skiing', 'walking']",[],0,1.0,False
+2288099178_41091aa00c.jpg,a boy in a blue and blue jacket is jumping over a snowy hill.,"['boy', 'jumping']",['people'],"['boy', 'jumping']",2,0.0,True
+2289068031_fe26990183.jpg,a person is doing a trick on a dirt track.,['person'],"['jumping', 'man', 'motorcycle', 'person']",[],0,1.0,False
+2292406847_f366350600.jpg,a person is surfing on a lake.,"['lake', 'person', 'surfing']","['boat', 'man', 'water']","['lake', 'person', 'surfing']",3,0.0,True
+2295216243_0712928988.jpg,a group of people are standing in front of a group of a group of people.,"['people', 'standing']","['beach', 'girl', 'people', 'truck']",['standing'],1,0.5,False
+2295750198_6d152d7ceb.jpg,a girl is running through the grass with a red ball.,"['ball', 'girl', 'running']","['girl', 'person', 'standing', 'walking']","['ball', 'running']",2,0.3333333333333333,True
+229862312_1a0ba19dab.jpg,two dogs are playing in the grass with a brown dog.,"['dog', 'playing']",['dog'],['playing'],1,0.5,False
+2300168895_a9b83e16fc.jpg,a brown dog is standing on the grass with a white dog.,"['dog', 'standing']","['dog', 'playing', 'sitting']",['standing'],1,0.5,False
+2301525531_edde12d673.jpg,a dog is running through the snow with a white dog in its mouth.,"['dog', 'running']","['bench', 'dog', 'jumping', 'running']",[],0,1.0,False
+2306674172_dc07c7f847.jpg,a boy is doing a skateboard trick on a skateboard.,"['boy', 'skateboard']","['boy', 'building', 'jumping', 'man', 'shirt', 'skateboard']",[],0,1.0,False
+2307118114_c258e3a47e.jpg,a man in a black jacket is holding a sign with a sign.,['man'],"['hat', 'man', 'shirt']",[],0,1.0,False
+2308271254_27fb466eb4.jpg,two dogs are playing in the water.,"['playing', 'water']","['dog', 'lake', 'playing', 'water']",[],0,1.0,False
+2308978137_bfe776d541.jpg,a group of people are standing in front of a group of people.,"['people', 'standing']","['people', 'riding']",['standing'],1,0.5,False
+2309860995_c2e2a0feeb.jpg,a man in a black jacket is standing in front of a white building.,"['building', 'man', 'standing']","['man', 'shirt', 'standing', 'walking', 'woman']",['building'],1,0.6666666666666666,False
+2310126952_7dc86d88f6.jpg,four dogs are playing in the snow with a sled in the snow.,['playing'],"['dog', 'running']",['playing'],1,0.0,True
+2311690895_0d6efe11c8.jpg,a brown dog is laying on a white dog.,['dog'],"['dog', 'person']",[],0,1.0,False
+2317714088_bcd081f926.jpg,two people are standing in the snow with a snow covered in the background.,"['people', 'standing']","['house', 'people', 'person', 'standing']",[],0,1.0,False
+2333288869_8c01e4c859.jpg,a man is standing in the ocean.,"['man', 'ocean', 'standing']","['boy', 'child', 'ocean', 'water', 'woman']","['man', 'standing']",2,0.3333333333333333,True
+2339106348_2df90aa6a9.jpg,two women in blue shirts are posing for a picture.,[],"['boy', 'girl', 'people', 'standing']",[],0,1.0,False
+2340206885_58754a799a.jpg,two dogs play in the snow.,[],"['playing', 'standing']",[],0,1.0,False
+2343525685_3eba3b6686.jpg,a boy in a red shirt climbs a rock wall.,"['boy', 'shirt']","['man', 'shirt']",['boy'],1,0.5,False
+2345984157_724823b1e4.jpg,a brown dog is standing in the water.,"['dog', 'standing', 'water']","['dog', 'water']",['standing'],1,0.6666666666666666,False
+2346401538_f5e8da66fc.jpg,two women are sitting on a black and one is holding a camera while another woman in a red jacket is holding a red and one is holding a camera while another woman in a red and,"['sitting', 'woman']","['hat', 'people', 'woman']",['sitting'],1,0.5,False
+2351479551_e8820a1ff3.jpg,a boy jumps off a ramp.,['boy'],"['boy', 'jumping', 'man']",[],0,1.0,False
+2354540393_a149722680.jpg,a boy is playing with a guitar and a guitar on the floor.,"['boy', 'playing']","['child', 'girl', 'house', 'standing']","['boy', 'playing']",2,0.0,True
+2358554995_54ed3baa83.jpg,a young boy wearing a black jacket and brown jacket is sitting on a red bench.,"['bench', 'boy', 'sitting']","['child', 'playing']","['bench', 'boy', 'sitting']",3,0.0,True
+2358561039_e215a8d6cd.jpg,a man in a red jacket is skiing down a snowy hill.,"['man', 'skiing']","['bicycle', 'dog', 'helmet', 'man']",['skiing'],1,0.5,False
+2358898017_24496b80e8.jpg,a dog jumps over a grassy field.,['dog'],"['dog', 'playing']",[],0,1.0,False
+2370481277_a3085614c9.jpg,two boys playing soccer on a field,['playing'],"['ball', 'boy', 'playing']",[],0,1.0,False
+2373234213_4ebe9c4ee5.jpg,a boy is jumping off a trampoline while another boy is jumping into the air.,"['boy', 'jumping']","['boy', 'jumping']",[],0,1.0,False
+2374652725_32f90fa15c.jpg,two dogs are playing in the snow.,['playing'],['dog'],['playing'],1,0.0,True
+2378149488_648e5deeac.jpg,a boy in a red hat is sitting on a skateboard in front of a white building.,"['boy', 'building', 'hat', 'sitting', 'skateboard']","['boy', 'child', 'sitting']","['building', 'hat', 'skateboard']",3,0.4,True
+2384353160_f395e9a54b.jpg,a man in a hat and a hat is wearing a black hat and black hat and black hat and black hat and a black hat and black hat and a black hat and black hat and,"['hat', 'man']","['hat', 'man', 'shirt']",[],0,1.0,False
+2393264648_a280744f97.jpg,a young boy in a red jacket is standing in the ocean.,"['boy', 'ocean', 'standing']","['beach', 'child', 'girl', 'man', 'water', 'woman']","['boy', 'ocean', 'standing']",3,0.0,True
+2396025708_e4a72e2558.jpg,a surfer is riding a red and white surfboard.,"['riding', 'surfboard']","['man', 'ocean', 'person']","['riding', 'surfboard']",2,0.0,True
+2396691909_6b8c2f7c44.jpg,a woman in a white dress is standing in front of a man in front of a crowd.,"['dress', 'man', 'standing', 'woman']","['dress', 'girl', 'standing', 'woman']",['man'],1,0.75,False
+2398605966_1d0c9e6a20.jpg,a dog is running through the snow.,"['dog', 'running']","['dog', 'playing']",['running'],1,0.5,False
+241031254_0c6f30e3d1.jpg,a man in a white shirt and brown shorts is standing in front of a tree.,"['man', 'shirt', 'standing']","['man', 'shirt', 'standing', 'water']",[],0,1.0,False
+2410320522_d967f0b75c.jpg,a dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'playing']",['running'],1,0.5,False
+241345811_46b5f157d4.jpg,a group of men in white uniforms are running on the grass with a football game.,['running'],[],['running'],1,0.0,True
+241345844_69e1c22464.jpg,a football player in red is standing in front of a football game.,['standing'],[],['standing'],1,0.0,True
+241345905_5826a72da1.jpg,a man in a white shirt and white shirt is sitting on the grass by the football to the football to the football,"['man', 'shirt', 'sitting']",['man'],"['shirt', 'sitting']",2,0.3333333333333333,True
+241346508_0b3907a95b.jpg,a football player in a red uniform is running on the field while the player in white player in white uniform is running in the player in the player in the player in white uniform,['running'],"['ball', 'man', 'playing', 'running']",[],0,1.0,False
+241346971_c100650320.jpg,a football player in a white uniform is running on the field while the player in white jersey is running on the field.,['running'],['running'],[],0,1.0,False
+241347204_007d83e252.jpg,a football player in red is running with a football game.,['running'],[],['running'],1,0.0,True
+241347760_d44c8d3a01.jpg,a football player in red is wearing a red and white uniform and black and white uniform is holding a football game.,[],"['helmet', 'man', 'shirt']",[],0,1.0,False
+2414397449_2ac3b78e0d.jpg,a black and white dog is running through the grass with a tennis ball in its mouth.,"['ball', 'dog', 'running']","['dog', 'jumping', 'playing']","['ball', 'running']",2,0.3333333333333333,True
+2415803492_56a673dc25.jpg,a woman in a black shirt is standing on a skateboard.,"['shirt', 'skateboard', 'standing', 'woman']","['girl', 'man', 'shirt']","['skateboard', 'standing', 'woman']",3,0.25,True
+2419221084_01a14176b4.jpg,a white dog is running through a fence.,"['dog', 'running']","['dog', 'standing']",['running'],1,0.5,False
+2421446839_fe7d46c177.jpg,a black dog is running on a white dog in the street.,"['dog', 'running']","['car', 'dog', 'woman']",['running'],1,0.5,False
+2431470169_0eeba7d602.jpg,a boy is sitting on a bench in front of a building.,"['bench', 'boy', 'building', 'sitting']","['chair', 'man', 'sitting', 'table']","['bench', 'boy', 'building']",3,0.25,True
+2431832075_00aa1a4457.jpg,a girl is sitting on a red and blue slide.,"['girl', 'sitting']","['girl', 'house', 'playing']",['sitting'],1,0.5,False
+2435685480_a79d42e564.jpg,a man in a black jacket is sitting on a rock overlooking a large rock.,"['man', 'sitting']","['bench', 'girl', 'sitting', 'woman']",['man'],1,0.5,False
+2436081047_bca044c1d3.jpg,a child is jumping on a swing at a park.,"['child', 'jumping']","['girl', 'jumping', 'shirt']",['child'],1,0.5,False
+2443380641_7b38d18f5b.jpg,"a boy in a red shirt and white shirt is holding a sign with a sign that says "" sign.","['boy', 'shirt']","['ball', 'boy', 'child', 'man', 'shirt']",[],0,1.0,False
+2445283938_ff477c7952.jpg,a group of women are sitting on a bench in front of a large building.,"['bench', 'building', 'sitting']","['girl', 'sitting']","['bench', 'building']",2,0.3333333333333333,True
+244571201_0339d8e8d1.jpg,people are playing in a pool while a man in the man is standing in the sun behind them.,"['man', 'people', 'playing', 'standing']","['dog', 'people', 'playing', 'swimming']","['man', 'standing']",2,0.5,False
+2447284966_d6bbdb4b6e.jpg,a boy in a red shirt is sitting on a blue slide.,"['boy', 'shirt', 'sitting']","['boy', 'shirt', 'standing']",['sitting'],1,0.6666666666666666,False
+2450299735_62c095f40e.jpg,a little girl is playing in a pool.,"['girl', 'playing']","['child', 'girl', 'shirt', 'water']",['playing'],1,0.5,False
+2450453051_f1d4a78ab4.jpg,a dog is running through the grass with a tennis ball in its mouth.,"['ball', 'dog', 'running']","['dog', 'man', 'shirt']","['ball', 'running']",2,0.3333333333333333,True
+245252561_4f20f1c89e.jpg,a white dog is running on the street.,"['dog', 'running']","['dog', 'playing']",['running'],1,0.5,False
+2453971388_76616b6a82.jpg,two children are playing in the pool with a water in the background.,"['playing', 'water']","['people', 'playing', 'running', 'water']",[],0,1.0,False
+2458269558_277012780d.jpg,a young boy is swinging on a swing,['boy'],"['boy', 'child', 'playing', 'shirt', 'surfing']",[],0,1.0,False
+245895500_a4eb97af02.jpg,a person is standing on a hill near a lake.,"['lake', 'person', 'standing']","['man', 'person', 'river', 'standing']",['lake'],1,0.6666666666666666,False
+246055693_ccb69ac5c6.jpg,a dog is jumping over a wooden fence on a wooden bench.,"['bench', 'dog', 'jumping']","['dog', 'jumping']",['bench'],1,0.6666666666666666,False
+2460797929_66446c13db.jpg,three people are sitting in a lake.,"['lake', 'people', 'sitting']","['boat', 'people', 'riding', 'sitting', 'water']",['lake'],1,0.6666666666666666,False
+2461616306_3ee7ac1b4b.jpg,a man jumps into a pool while another man jumps into the pool.,['man'],"['boy', 'child', 'jumping', 'swimming', 'water']",['man'],1,0.0,True
+2470486377_c3a39ccb7b.jpg,two men are standing in front of a large building.,"['building', 'standing']","['boy', 'playing', 'shirt']","['building', 'standing']",2,0.0,True
+2472980433_210ec62874.jpg,a man in a black helmet is riding a motorcycle on a red motorcycle.,"['helmet', 'man', 'motorcycle', 'riding']","['man', 'motorcycle', 'riding']",['helmet'],1,0.75,False
+2473689180_e9d8fd656a.jpg,a person is riding a bike over a large wave in the water.,"['person', 'riding', 'water']","['jumping', 'man', 'person', 'water']",['riding'],1,0.6666666666666666,False
+2473738924_eca928d12f.jpg,two young men in white uniforms play on a trampoline.,[],['person'],[],0,1.0,False
+2473791980_805c819bd4.jpg,a man is swinging on a rope above the water.,"['man', 'water']","['man', 'ocean', 'surfing', 'water']",[],0,1.0,False
+2475162978_2c51048dca.jpg,two boys play soccer on the grass.,[],"['ball', 'boy', 'child', 'running', 'woman']",[],0,1.0,False
+247637795_fdf26a03cf.jpg,a man in a black shirt is standing in the water.,"['man', 'shirt', 'standing', 'water']","['man', 'standing', 'water', 'woman']",['shirt'],1,0.75,False
+247704641_d883902277.jpg,two dogs are walking through the water near a lake.,"['lake', 'walking', 'water']","['dog', 'river', 'walking', 'water']",['lake'],1,0.6666666666666666,False
+2479162876_a5ce3306af.jpg,a white dog is running on a dirt path.,"['dog', 'running']","['dog', 'man', 'person', 'walking']",['running'],1,0.5,False
+2479652566_8f9fac8af5.jpg,a boy in a red shirt and blue jeans is sitting on a bench with a white shirt and blue jeans and blue jeans and blue jeans and blue jeans and blue jeans and blue jeans and,"['bench', 'boy', 'shirt', 'sitting']","['girl', 'sitting']","['bench', 'boy', 'shirt']",3,0.25,True
+2480327661_fb69829f57.jpg,two young boys playing soccer.,['playing'],"['boy', 'child', 'standing']",['playing'],1,0.0,True
+2480850054_de3433b54a.jpg,a boy is running through a grassy area.,"['boy', 'running']","['boy', 'house', 'running']",[],0,1.0,False
+2482629385_f370b290d1.jpg,a black dog is running through the grass with a blue collar in its mouth.,"['dog', 'running']","['dog', 'lake', 'walking', 'water']",['running'],1,0.5,False
+2484190118_e89363c465.jpg,a young boy in a white shirt and blue jeans is standing on a sidewalk with a tree in the background.,"['boy', 'shirt', 'standing']","['boy', 'child', 'man', 'shirt', 'standing']",[],0,1.0,False
+2490768374_45d94fc658.jpg,a girl in a pink dress is running in the grass with a blue shirt and white shirt and blue shirt in the background.,"['dress', 'girl', 'running', 'shirt']","['girl', 'running', 'shirt']",['dress'],1,0.75,False
+249394748_2e4acfbbb5.jpg,two white dogs are playing in the grass with a toy in the background.,['playing'],"['playing', 'running']",[],0,1.0,False
+2495931537_9b8d4474b6.jpg,a dog is laying on a bed in the air while a brown dog is laying on a bed.,['dog'],"['dog', 'standing', 'table']",[],0,1.0,False
+2496370758_a3fbc49837.jpg,a brown dog is running through a field with a ball in its mouth.,"['ball', 'dog', 'running']","['dog', 'running']",['ball'],1,0.6666666666666666,False
+2497420371_74788d7ba1.jpg,a man and a woman are sitting on a bench in front of a building.,"['bench', 'building', 'man', 'sitting', 'woman']","['bicycle', 'building', 'man']","['bench', 'sitting', 'woman']",3,0.4,True
+2498897831_0bbb5d5b51.jpg,two girls are sitting on a wooden bench.,"['bench', 'sitting']","['bench', 'sitting']",[],0,1.0,False
+2501595799_6316001e89.jpg,a boy jumps into a swimming pool.,"['boy', 'swimming']","['boy', 'child', 'jumping']",['swimming'],1,0.5,False
+2502905671_c6039804ab.jpg,a man is standing on a beach with a black dog in the background.,"['beach', 'dog', 'man', 'standing']","['ball', 'beach', 'dog', 'man', 'ocean', 'playing']",['standing'],1,0.75,False
+2505988632_9541f15583.jpg,a girl is jumping on a beach with a rope in the background.,"['beach', 'girl', 'jumping']","['girl', 'jumping']",['beach'],1,0.6666666666666666,False
+2510020918_b2ca0fb2aa.jpg,a boy is sitting on a green slide.,"['boy', 'sitting']",['boy'],['sitting'],1,0.5,False
+2511019188_ca71775f2d.jpg,a black dog is jumping into the air to catch a blue ball.,"['ball', 'dog', 'jumping']","['dog', 'playing']","['ball', 'jumping']",2,0.3333333333333333,True
+2518508760_68d8df7365.jpg,a dog is running on a track.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+2521770311_3086ca90de.jpg,a boy in a blue shirt is holding a baby in a blue and blue shirt.,"['boy', 'shirt']","['boy', 'shirt']",[],0,1.0,False
+2522297487_57edf117f7.jpg,two young boys are smiling and one is sitting on a green bench.,"['bench', 'sitting']","['boy', 'child', 'shirt', 'woman']","['bench', 'sitting']",2,0.0,True
+2525270674_4ab536e7ec.jpg,a dog is running through a park.,"['dog', 'running']",['dog'],['running'],1,0.5,False
+2526041608_a9775ab8d7.jpg,a man in a blue shirt is running with a football game.,"['man', 'running', 'shirt']","['ball', 'boy', 'playing']","['man', 'running', 'shirt']",3,0.0,True
+2526585002_10987a63f3.jpg,a man in a white shirt is sitting on a yellow boat with a yellow and white dog in the background.,"['boat', 'dog', 'man', 'shirt', 'sitting']","['boat', 'dog', 'man']","['shirt', 'sitting']",2,0.6,False
+2529116152_4331dabf50.jpg,a man in a black shirt is jumping off a ramp in the air while another man is in the air.,"['jumping', 'man', 'shirt']","['building', 'man', 'standing', 'table']","['jumping', 'shirt']",2,0.3333333333333333,True
+2533424347_cf2f84872b.jpg,a group of people are riding a red car on a track.,"['car', 'people', 'riding']","['car', 'people']",['riding'],1,0.6666666666666666,False
+2533642917_a5eace85e6.jpg,a man in a blue shirt is standing in the water.,"['man', 'shirt', 'standing', 'water']","['boy', 'child', 'standing', 'water']","['man', 'shirt']",2,0.5,False
+2534502836_7a75305655.jpg,a white dog is running through a field with a white and white and white and white and white and white dog in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+2541104331_a2d65cfa54.jpg,a black dog is running through the water.,"['dog', 'running', 'water']","['dog', 'running', 'water']",[],0,1.0,False
+2542662402_d781dd7f7c.jpg,a dog jumps over a hurdle.,['dog'],"['dog', 'jumping', 'running', 'shirt', 'walking', 'woman']",[],0,1.0,False
+254295381_d98fa049f4.jpg,a black and white dog is running down a red ramp with a red frisbee.,"['dog', 'running']",['dog'],['running'],1,0.5,False
+2543589122_ec3e55f434.jpg,a dog is jumping into a blue pool.,"['dog', 'jumping']","['dog', 'playing', 'swimming', 'water']",['jumping'],1,0.5,False
+2544182005_3aa1332bf9.jpg,a boy rides a bike on a tire swing,['boy'],"['boy', 'child', 'helmet', 'riding', 'shirt']",[],0,1.0,False
+2544426580_317b1f1f73.jpg,a baby is sitting on a bed and playing with a toy and blue and blue and blue and blue and blue and blue and blue and blue and blue and blue and blue and blue and,"['playing', 'sitting']","['boy', 'car', 'playing', 'truck']",['sitting'],1,0.5,False
+2549968784_39bfbe44f9.jpg,a little boy wearing blue goggles is wearing a blue and blue goggles and blue goggles and blue goggles,['boy'],"['child', 'sitting', 'swimming']",['boy'],1,0.0,True
+2553550034_5901aa9d6c.jpg,a man in a white shirt and blue shirt is sitting on a rock climbing on a rock climbing wall.,"['man', 'shirt', 'sitting']","['boy', 'hat']","['man', 'shirt', 'sitting']",3,0.0,True
+2554081584_233bdf289a.jpg,a man in a yellow shirt and blue hat is sitting on a rock wall.,"['hat', 'man', 'shirt', 'sitting']","['man', 'shirt', 'standing']","['hat', 'sitting']",2,0.5,False
+2559503010_84f20b3bc9.jpg,a man in a white shirt is standing in front of a building with a building in the window of a building.,"['building', 'man', 'shirt', 'standing']","['car', 'hat', 'man', 'standing']","['building', 'shirt']",2,0.5,False
+2559921948_06af25d566.jpg,a man in a yellow shirt is running through the water.,"['man', 'running', 'shirt', 'water']","['beach', 'boy', 'ocean', 'shirt', 'surfboard', 'walking']","['man', 'running', 'water']",3,0.25,True
+256085101_2c2617c5d0.jpg,a brown and white dog is laying on the grass by a brown dog.,['dog'],['dog'],[],0,1.0,False
+2573625591_70291c894a.jpg,two dogs are running through the grass with a stick in its mouth.,['running'],"['building', 'dog', 'running']",[],0,1.0,False
+2575647360_f5de38c751.jpg,a man in a white shirt is standing in front of a large building.,"['building', 'man', 'shirt', 'standing']","['building', 'people', 'sitting']","['man', 'shirt', 'standing']",3,0.25,True
+2577972703_a22c5f2a87.jpg,a little girl in a red shirt is holding a toy in the grass.,"['girl', 'shirt']","['child', 'girl', 'shirt', 'standing']",[],0,1.0,False
+2581066814_179d28f306.jpg,a man in a yellow shirt and yellow shirt is riding a bike on a city street.,"['man', 'riding', 'shirt']","['man', 'people', 'riding']",['shirt'],1,0.6666666666666666,False
+2587818583_4aa8e7b174.jpg,three children are sitting on a colorful and one is sitting in a blue and one is sitting in a blue and one is sitting in a blue and one is sitting on a blue blanket.,['sitting'],"['ball', 'boy', 'child', 'man', 'playing']",['sitting'],1,0.0,True
+2588927489_f4da2f11ec.jpg,a boy in a red hat is standing on a swing in front of a park.,"['boy', 'hat', 'standing']","['boy', 'hat']",['standing'],1,0.6666666666666666,False
+2589241160_3832440850.jpg,two dogs are running through the sand.,['running'],"['beach', 'running']",[],0,1.0,False
+2594042571_2e4666507e.jpg,a boy in a red shirt is sitting on a wooden bench.,"['bench', 'boy', 'shirt', 'sitting']","['boy', 'hat', 'shirt', 'sitting']",['bench'],1,0.75,False
+2594902417_f65d8866a8.jpg,two dogs are running through a field with a stick in its mouth.,['running'],"['dog', 'jumping']",['running'],1,0.0,True
+2595186208_9b16fa0ee3.jpg,a black dog is standing in the water near a lake.,"['dog', 'lake', 'standing', 'water']","['dog', 'jumping', 'lake', 'water']",['standing'],1,0.75,False
+2599444370_9e40103027.jpg,a black dog swimming in a pool,"['dog', 'swimming']","['cat', 'dog', 'swimming', 'water']",[],0,1.0,False
+2600867924_cd502fc911.jpg,two dogs run through the grass with a brown and white dog in its mouth.,['dog'],"['dog', 'running']",[],0,1.0,False
+2602085456_d1beebcb29.jpg,a woman in a red dress is standing in front of a crowd.,"['dress', 'standing', 'woman']",['woman'],"['dress', 'standing']",2,0.3333333333333333,True
+2602258549_7401a3cdae.jpg,a man sitting at a table at a table in a table at a table,"['man', 'sitting', 'table']","['man', 'sitting', 'table', 'woman']",[],0,1.0,False
+2603792708_18a97bac97.jpg,two people walking on the beach near the ocean.,"['beach', 'ocean', 'people', 'walking']","['beach', 'people', 'walking']",['ocean'],1,0.75,False
+260520547_944f9f4c91.jpg,a man and a woman are walking on a beach near a lake.,"['beach', 'lake', 'man', 'walking', 'woman']","['beach', 'dress', 'man', 'people', 'walking', 'water', 'woman']",['lake'],1,0.8,False
+2607462776_78e639d891.jpg,a black dog jumps into the water near a lake.,"['dog', 'lake', 'water']","['dog', 'jumping', 'lake', 'water']",[],0,1.0,False
+260828892_7925d27865.jpg,a woman in a red shirt is walking on a beach.,"['beach', 'shirt', 'walking', 'woman']","['beach', 'dress', 'man', 'ocean', 'person', 'walking', 'woman']",['shirt'],1,0.75,False
+2608289957_044849f73e.jpg,a young boy wearing a white shirt is standing on a black bench.,"['bench', 'boy', 'shirt', 'standing']","['boy', 'car', 'child', 'playing', 'sitting']","['bench', 'shirt', 'standing']",3,0.25,True
+2610447973_89227ff978.jpg,a man sits on a bench with a large building.,"['bench', 'building', 'man']","['people', 'sitting']","['bench', 'building', 'man']",3,0.0,True
+2612488996_9450de0e54.jpg,a man in a white shirt and black hat is standing on a red and red and white bench in front of a red and white building.,"['bench', 'building', 'hat', 'man', 'shirt', 'standing']","['man', 'standing']","['bench', 'building', 'hat', 'shirt']",4,0.3333333333333333,True
+261490838_2f3ac98b12.jpg,a white dog is running through a field with a yellow flowers.,"['dog', 'running']",['dog'],['running'],1,0.5,False
+2616643090_4f2d2d1a44.jpg,a boy in a green shirt is holding a rope.,"['boy', 'shirt']",['child'],"['boy', 'shirt']",2,0.0,True
+2621415349_ef1a7e73be.jpg,a man wearing a black and white hat is wearing a black and black and black and sunglasses is wearing a black and sunglasses and sunglasses and sunglasses is wearing a black and sunglasses and black and,"['hat', 'man']","['hat', 'man']",[],0,1.0,False
+2623930900_b9df917b82.jpg,a man in a pink shirt and a white shirt is standing in front of a man in a crowd.,"['man', 'shirt', 'standing']","['man', 'people', 'shirt']",['standing'],1,0.6666666666666666,False
+2631300484_be8621d17b.jpg,a man wearing a black shirt and white shirt is standing in front of a large black and white and white and black and white and white and black and white dog with a man in the,"['dog', 'man', 'shirt', 'standing']","['boy', 'people', 'shirt']","['dog', 'man', 'standing']",3,0.25,True
+263854883_0f320c1562.jpg,two white dogs are running through the grass.,['running'],"['playing', 'running']",[],0,1.0,False
+2641770481_c98465ff35.jpg,a man is standing on a rock with a yellow and yellow kayak on the sun and yellow board.,"['man', 'standing']","['lake', 'man', 'ocean', 'standing', 'water']",[],0,1.0,False
+2644430445_47c985a2ee.jpg,a woman in a red dress and black shirt is holding a camera while another man in a crowd watches.,"['dress', 'man', 'shirt', 'woman']","['girl', 'shirt', 'woman']","['dress', 'man']",2,0.5,False
+2646046871_c3a5dbb971.jpg,a little boy in blue shorts is jumping in the air with a white shirt and blue shirt and blue jeans in the background.,"['boy', 'jumping', 'shirt']","['boy', 'building', 'child', 'jumping', 'shirt']",[],0,1.0,False
+2646116932_232573f030.jpg,a boy in a green shirt is standing in the grass by a tree with a tree in the background.,"['boy', 'shirt', 'standing']","['boy', 'child', 'shirt', 'sitting', 'standing', 'table']",[],0,1.0,False
+2647049174_0fb47cee2e.jpg,a boy in a blue shirt is holding a stick in his mouth.,"['boy', 'shirt']","['boy', 'child', 'playing', 'shirt']",[],0,1.0,False
+2648165716_02e2e74fd6.jpg,a boy in a striped shirt is holding a red toy in his mouth.,"['boy', 'shirt']","['ball', 'boy', 'child', 'shirt']",[],0,1.0,False
+2649406158_ded6be38de.jpg,two dogs run across a track.,[],"['dog', 'running']",[],0,1.0,False
+2652522323_9218afd8c2.jpg,a boy is playing with a ball on the grass with a blue ball.,"['ball', 'boy', 'playing']","['ball', 'beach', 'child', 'dress', 'girl', 'hat', 'playing', 'woman']",['boy'],1,0.6666666666666666,False
+2654514044_a70a6e2c21.jpg,a dog is running through the grass with a red ball.,"['ball', 'dog', 'running']","['dog', 'playing', 'running']",['ball'],1,0.6666666666666666,False
+2657484284_daa07a3a1b.jpg,a person in a canoe is standing in the water.,"['person', 'standing', 'water']","['people', 'river']","['person', 'standing', 'water']",3,0.0,True
+2660008870_b672a4c76a.jpg,a young boy is jumping into a swimming pool.,"['boy', 'jumping', 'swimming']","['boy', 'child', 'jumping', 'playing', 'swimming', 'water']",[],0,1.0,False
+2662845514_8620aaee96.jpg,a man in a white shirt is playing a large bubble.,"['man', 'playing', 'shirt']",['man'],"['playing', 'shirt']",2,0.3333333333333333,True
+2663794355_e726ec7e05.jpg,a man in shorts is sitting on a rock wall with a blue sky.,"['man', 'sitting']","['ocean', 'people', 'water']","['man', 'sitting']",2,0.0,True
+2666179615_f05a9d8331.jpg,a woman with a red hair and a black shirt is smiling and a woman with a red hair and red hair and blue eyes,"['shirt', 'woman']","['girl', 'shirt', 'woman']",[],0,1.0,False
+2666205903_8d287669e1.jpg,a boy is playing with a colorful colored plastic toy and a blue and blue and blue shirt is holding a colorful colored plastic bag.,"['boy', 'playing', 'shirt']","['child', 'girl', 'man', 'people', 'person', 'playing', 'shirt', 'sitting', 'standing']",['boy'],1,0.6666666666666666,False
+2667015110_1670324a33.jpg,a boy wearing a green shirt is holding a red and black and white and blue shirt and blue and blue jeans and blue jeans and blue jeans and blue jeans and white shirt with his hand,"['boy', 'shirt']","['boy', 'child', 'shirt']",[],0,1.0,False
+2675685200_0913d84d9b.jpg,two young boys sitting on a bed in a room with a blue shirt and a white shirt and blue jeans and blue jeans and blue jeans sitting on a bed.,"['shirt', 'sitting']","['boy', 'sitting', 'table']",['shirt'],1,0.5,False
+2676764246_c58205a365.jpg,four dogs are running on a dirt track.,['running'],['running'],[],0,1.0,False
+2677656448_6b7e7702af.jpg,a dog jumps into a pool while another dog watches.,['dog'],"['dog', 'person', 'swimming', 'water']",[],0,1.0,False
+2682382530_f9f8fd1e89.jpg,a man is doing a trick on a swing while holding a stick in his hand.,['man'],"['man', 'shirt', 'water']",[],0,1.0,False
+2683963310_20dcd5e566.jpg,a little boy in a green shirt is sitting on a rope in the grass with a rope in the background.,"['boy', 'shirt', 'sitting']","['playing', 'shirt']","['boy', 'sitting']",2,0.3333333333333333,True
+2689001252_e0016c89f0.jpg,a girl in a pink dress is standing on a white bench.,"['bench', 'dress', 'girl', 'standing']","['building', 'child', 'girl']","['bench', 'dress', 'standing']",3,0.25,True
+2693425189_47740c22ed.jpg,a boy is jumping off a green slide.,"['boy', 'jumping']","['boy', 'child', 'swimming', 'water']",['jumping'],1,0.5,False
+2696866120_254a0345bc.jpg,a dog is running through the woods.,"['dog', 'running']",['dog'],['running'],1,0.5,False
+2698666984_13e17236ae.jpg,a boy in a red shirt and black shorts is running on a street.,"['boy', 'running', 'shirt']",['woman'],"['boy', 'running', 'shirt']",3,0.0,True
+2704934519_457dc38986.jpg,a woman in a bathing suit is playing in the water.,"['playing', 'water', 'woman']","['girl', 'lake', 'river', 'water', 'woman']",['playing'],1,0.6666666666666666,False
+2706766641_a9df81969d.jpg,a boy in a blue shirt is standing on a wooden bench.,"['bench', 'boy', 'shirt', 'standing']","['boy', 'child']","['bench', 'shirt', 'standing']",3,0.25,True
+270724499_107481c88f.jpg,a dog runs through a field with a ball in its mouth.,"['ball', 'dog']","['ball', 'dog', 'running']",[],0,1.0,False
+2707873672_15e6b5d54b.jpg,a boy in a red shirt is jumping over a tree with a tree in the background.,"['boy', 'jumping', 'shirt']","['bench', 'table']","['boy', 'jumping', 'shirt']",3,0.0,True
+270816949_ffad112278.jpg,a man in a black jacket is standing on a mountain.,"['man', 'standing']","['horse', 'man', 'person', 'riding']",['standing'],1,0.5,False
+2708686056_1b8f356264.jpg,a girl in blue shorts is running on the beach.,"['beach', 'girl', 'running']","['girl', 'ocean', 'running', 'walking', 'water', 'woman']",['beach'],1,0.6666666666666666,False
+2712787899_d85048eb6a.jpg,a woman in a white shirt is sitting on a wooden bench.,"['bench', 'shirt', 'sitting', 'woman']","['girl', 'sitting', 'woman']","['bench', 'shirt']",2,0.5,False
+2715035273_8fc8b1291c.jpg,a woman in a black jacket and white dress is standing on a sidewalk with a man in the background.,"['dress', 'man', 'standing', 'woman']",['walking'],"['dress', 'man', 'standing', 'woman']",4,0.0,True
+2718024196_3ff660416a.jpg,a boy in a blue bathing suit is running through the grass with his arms in the background.,"['boy', 'running']","['boy', 'jumping', 'playing', 'swimming', 'water']",['running'],1,0.5,False
+2718495608_d8533e3ac5.jpg,a woman with a black hair and a brown hair is smiling and a woman in front of a group of a woman in front of a crowd.,['woman'],"['girl', 'shirt', 'woman']",[],0,1.0,False
+2723477522_d89f5ac62b.jpg,two dogs run through the grass near a grassy field.,[],['dog'],[],0,1.0,False
+2729655904_1dd01922fb.jpg,two dogs are running through the ocean.,"['ocean', 'running']","['beach', 'ocean', 'playing', 'water']",['running'],1,0.5,False
+2731171552_4a808c7d5a.jpg,a woman in a white shirt and black pants is jumping off a wooden ramp in the air.,"['jumping', 'shirt', 'woman']","['boy', 'child', 'man', 'shirt']","['jumping', 'woman']",2,0.3333333333333333,True
+2735558076_0d7bbc18fc.jpg,two men are sitting on a street with a blue and white shirt and black jacket.,"['shirt', 'sitting']","['boy', 'man', 'people', 'sitting']",['shirt'],1,0.5,False
+2739331794_4ae78f69a0.jpg,a motorcycle racer is riding a red motorcycle on a track.,"['motorcycle', 'riding']","['man', 'motorcycle', 'riding']",[],0,1.0,False
+2748729903_3c7c920c4d.jpg,a person is flying through the water with a large body of water.,"['person', 'water']","['lake', 'man', 'person', 'water']",[],0,1.0,False
+2757803246_8aa3499d26.jpg,a little boy is playing with a red and blue shirt on the grass.,"['boy', 'playing', 'shirt']","['boy', 'child', 'people', 'running']","['playing', 'shirt']",2,0.3333333333333333,True
+2759860913_f75b39d783.jpg,a man in a yellow jacket and yellow jacket is standing on a mountain.,"['man', 'standing']","['man', 'standing']",[],0,1.0,False
+2762301555_48a0d0aa24.jpg,a young boy wearing a red shirt is standing in front of a white shirt and blue shirt.,"['boy', 'shirt', 'standing']","['child', 'girl', 'swimming']","['boy', 'shirt', 'standing']",3,0.0,True
+2763044275_aa498eb88b.jpg,two black dogs run through the grass.,[],['running'],[],0,1.0,False
+2764178773_d63b502812.jpg,a man is doing a trick on a bike in the air with a mountain in the background.,['man'],"['bicycle', 'man', 'person']",[],0,1.0,False
+2774430374_fee1d793e7.jpg,a little boy in a red shirt is running with a stick in his mouth.,"['boy', 'running', 'shirt']","['boy', 'playing', 'shirt']",['running'],1,0.6666666666666666,False
+2774554310_007e980a90.jpg,a woman in a black bathing suit is wearing a black bathing suit and white bathing suit and black bathing suit is wearing a black bathing suit and white bathing suit and black bathing suit and white,['woman'],['woman'],[],0,1.0,False
+2782433864_5a0c311d87.jpg,two dogs run on the beach.,['beach'],"['beach', 'dog', 'standing']",[],0,1.0,False
+2788945468_74a9618cfa.jpg,a man in a white shirt is standing in front of a brick building.,"['building', 'man', 'shirt', 'standing']","['man', 'shirt', 'standing']",['building'],1,0.75,False
+2796801478_8ebd7e550b.jpg,a black dog jumps over a ramp.,['dog'],"['jumping', 'man', 'skateboard']",['dog'],1,0.0,True
+2797149878_bb8e27ecf9.jpg,a boy is swinging on a rope while holding a camera while holding a rope.,['boy'],"['beach', 'boy', 'water']",[],0,1.0,False
+279728508_6bd7281f3c.jpg,a boy is jumping into a river.,"['boy', 'jumping', 'river']","['boy', 'lake', 'playing', 'water']","['jumping', 'river']",2,0.3333333333333333,True
+2806710650_e201acd913.jpg,a person in a red shirt is running through a field with a white and blue sky.,"['person', 'running', 'shirt']","['person', 'shirt', 'standing', 'walking', 'woman']",['running'],1,0.6666666666666666,False
+280706862_14c30d734a.jpg,a black dog is running through the sand.,"['dog', 'running']","['ball', 'beach', 'dog', 'walking', 'water']",['running'],1,0.5,False
+2813033949_e19fa08805.jpg,a black and white dog jumps over a tennis ball in the air while a tennis ball.,"['ball', 'dog']","['ball', 'dog', 'jumping', 'playing']",[],0,1.0,False
+2813992915_f732cf8539.jpg,a man is doing a trick on a skateboard while another man in the air.,"['man', 'skateboard']","['bicycle', 'jumping', 'man']",['skateboard'],1,0.5,False
+2815256108_fc1302117d.jpg,"a man in a white shirt and blue jeans stands next to a sign that says "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""","['man', 'shirt']",['standing'],"['man', 'shirt']",2,0.0,True
+2822290399_97c809d43b.jpg,a white dog and a white dog are running through a fence.,"['dog', 'running']","['dog', 'walking']",['running'],1,0.5,False
+2830869109_c4e403eae6.jpg,a girl is jumping into the air on a beach.,"['beach', 'girl', 'jumping']","['beach', 'boy', 'girl', 'lake', 'ocean', 'playing', 'water']",['jumping'],1,0.6666666666666666,False
+2831217847_555b2f95ca.jpg,a person in a blue jacket is sitting in the woods.,"['person', 'sitting']","['river', 'running', 'water']","['person', 'sitting']",2,0.0,True
+2839038702_e168128665.jpg,a man is standing on a cliff overlooking a mountain.,"['man', 'standing']","['dog', 'playing', 'standing']",['man'],1,0.5,False
+2842865689_e37256d9ce.jpg,a man and woman sit on a wooden bench.,"['bench', 'man', 'woman']","['boy', 'child', 'man', 'people', 'person', 'shirt', 'sitting', 'standing', 'table', 'woman']",['bench'],1,0.6666666666666666,False
+2843695880_eeea6c67db.jpg,a group of people are standing in the water.,"['people', 'standing', 'water']","['ocean', 'people', 'water']",['standing'],1,0.6666666666666666,False
+2844018783_524b08e5aa.jpg,two boys play in a park.,[],"['boy', 'building', 'house', 'playing']",[],0,1.0,False
+2844641033_dab3715a99.jpg,a boy wearing a blue shirt is running on the beach.,"['beach', 'boy', 'running', 'shirt']","['boy', 'child', 'playing', 'shirt', 'sitting']","['beach', 'running']",2,0.5,False
+2847615962_c330bded6e.jpg,a dog is running on a sidewalk with a white dog.,"['dog', 'running']",['dog'],['running'],1,0.5,False
+2854207034_1f00555703.jpg,a man is sitting on a grass near a grassy area with a blue shirt.,"['man', 'shirt', 'sitting']","['man', 'person']","['shirt', 'sitting']",2,0.3333333333333333,True
+2854959952_3991a385ab.jpg,a white dog jumps over a frisbee in the air while another dog is jumping into the air.,"['dog', 'jumping']","['ball', 'dog']",['jumping'],1,0.5,False
+2856080862_95d793fa9d.jpg,two girls are running on a field with a man in the background.,"['man', 'running']","['playing', 'standing']","['man', 'running']",2,0.0,True
+2860872588_f2c7b30e1a.jpg,a dog is playing with a stick in the background.,"['dog', 'playing']","['dog', 'jumping', 'playing']",[],0,1.0,False
+2861932486_52befd8592.jpg,a man in a blue jacket is standing in front of a white building.,"['building', 'man', 'standing']",['man'],"['building', 'standing']",2,0.3333333333333333,True
+2862004252_53894bb28b.jpg,a dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'standing', 'walking']",['running'],1,0.5,False
+2866254827_9a8f592017.jpg,a man in a yellow helmet is riding a motorcycle on a track.,"['helmet', 'man', 'motorcycle', 'riding']","['man', 'motorcycle', 'riding']",['helmet'],1,0.75,False
+2868575889_2c030aa8ae.jpg,a skateboarder is jumping off a ramp.,['jumping'],"['house', 'man', 'shirt', 'skateboard']",['jumping'],1,0.0,True
+2869491449_1041485a6b.jpg,a black dog is running through the grass with a brown dog.,"['dog', 'running']",['playing'],"['dog', 'running']",2,0.0,True
+2870875612_2cbb9e4a3c.jpg,a man is swimming in the water.,"['man', 'swimming', 'water']","['dog', 'ocean', 'swimming', 'water']",['man'],1,0.6666666666666666,False
+2876993733_cb26107d18.jpg,a person wearing a red helmet is sitting on a red and black and white and white helmet.,"['helmet', 'person', 'sitting']","['people', 'sitting']","['helmet', 'person']",2,0.3333333333333333,True
+2877503811_4e311253ec.jpg,a group of people are sitting on a sidewalk in front of a building.,"['building', 'people', 'sitting']","['building', 'house', 'people', 'sitting']",[],0,1.0,False
+2878190821_6e4e03dc5f.jpg,a young boy wearing a blue shirt is holding a toy in his mouth.,"['boy', 'shirt']","['boy', 'child', 'shirt', 'standing']",[],0,1.0,False
+2878272032_fda05ffac7.jpg,a dog is jumping into the water with a stick in its mouth.,"['dog', 'jumping', 'water']","['ball', 'dog', 'playing', 'water']",['jumping'],1,0.6666666666666666,False
+2883099128_0b056eed9e.jpg,a man in a blue shirt is running with a tennis ball in his mouth.,"['ball', 'man', 'running', 'shirt']","['ball', 'man', 'playing', 'shirt']",['running'],1,0.75,False
+2884301336_dc8e974431.jpg,a dog is jumping over a blue and yellow board.,"['dog', 'jumping']","['ball', 'dog', 'playing']",['jumping'],1,0.5,False
+2884420269_225d27f242.jpg,a man in a red shirt is jumping in the air while another man in the air.,"['jumping', 'man', 'shirt']","['boy', 'man', 'standing', 'train']","['jumping', 'shirt']",2,0.3333333333333333,True
+2885387575_9127ea10f1.jpg,a dog is playing with a soccer ball.,"['ball', 'dog', 'playing']","['ball', 'dog', 'playing']",[],0,1.0,False
+2886411666_72d8b12ce4.jpg,a dog is running through the grass with a tennis ball.,"['ball', 'dog', 'running']","['dog', 'running']",['ball'],1,0.6666666666666666,False
+2890113532_ab2003d74e.jpg,two dogs run through the grass with a tennis ball.,['ball'],"['dog', 'running']",['ball'],1,0.0,True
+2891617125_f939f604c7.jpg,a person riding a motorcycle on a dirt track.,"['motorcycle', 'person', 'riding']","['man', 'person', 'riding']",['motorcycle'],1,0.6666666666666666,False
+2892995070_39f3c9a56e.jpg,two dogs run across the beach.,['beach'],"['beach', 'dog', 'playing', 'running']",[],0,1.0,False
+2893374123_087f98d58a.jpg,a person on a bike is doing a trick on a skateboard.,"['person', 'skateboard']","['jumping', 'man', 'motorcycle', 'riding']","['person', 'skateboard']",2,0.0,True
+2894217628_f1a4153dca.jpg,two football players are playing soccer.,['playing'],"['helmet', 'playing']",[],0,1.0,False
+2900274587_f2cbca4c58.jpg,a man is standing in the water with a mountain in the background.,"['man', 'standing', 'water']","['lake', 'water']","['man', 'standing']",2,0.3333333333333333,True
+2901074943_041aba4607.jpg,a little girl in a pink dress is playing with a red and white and blue ball.,"['ball', 'dress', 'girl', 'playing']","['child', 'girl', 'sitting']","['ball', 'dress', 'playing']",3,0.25,True
+2901880865_3fd7b66a45.jpg,a surfer is doing a trick in the ocean wave.,['ocean'],"['jumping', 'surfboard']",['ocean'],1,0.0,True
+2902269566_419d9f1d8e.jpg,a person is riding a bike in the air while riding a red bike.,"['person', 'riding']","['helmet', 'man', 'person']",['riding'],1,0.5,False
+2905942129_2b4bf59bc0.jpg,a young boy jumps off a blue ramp in the air.,['boy'],"['chair', 'child']",['boy'],1,0.0,True
+2909875716_25c8652614.jpg,a girl in a white dress is standing in front of a field of a field of a white flowers.,"['dress', 'girl', 'standing']","['girl', 'woman']","['dress', 'standing']",2,0.3333333333333333,True
+2909955251_4b326a46a7.jpg,a person is standing in the water.,"['person', 'standing', 'water']","['hat', 'man', 'river']","['person', 'standing', 'water']",3,0.0,True
+2910758605_73a3f5a5c2.jpg,a man in a white shirt is standing in front of a group of a group of people.,"['man', 'people', 'shirt', 'standing']","['child', 'man', 'walking', 'woman']","['people', 'shirt', 'standing']",3,0.25,True
+2913965136_2d00136697.jpg,a boy in a black shirt is running through a grassy field while a man in the background.,"['boy', 'man', 'running', 'shirt']","['ball', 'boy', 'playing']","['man', 'running', 'shirt']",3,0.25,True
+2914206497_5e36ac6324.jpg,a white car is driving a car on a track.,['car'],['car'],[],0,1.0,False
+2918769188_565dd48060.jpg,a child is swimming in a pool while another boy is swimming pool.,"['boy', 'child', 'swimming']","['person', 'swimming', 'water']","['boy', 'child']",2,0.3333333333333333,True
+2921094201_2ed70a7963.jpg,a woman and a girl sit on a bed with a man in the background.,"['girl', 'man', 'woman']","['girl', 'man', 'sitting']",['woman'],1,0.6666666666666666,False
+2922222717_12195af92d.jpg,a black dog is jumping over a red ball while another dog watches.,"['ball', 'dog', 'jumping']","['dog', 'person', 'woman']","['ball', 'jumping']",2,0.3333333333333333,True
+2922973230_5a769ef92a.jpg,a girl is walking through a field of green field,"['girl', 'walking']","['girl', 'sheep', 'walking', 'woman']",[],0,1.0,False
+2924259848_effb4dcb82.jpg,a motorcycle rider is riding a dirt bike on a dirt track.,"['motorcycle', 'riding']","['man', 'motorcycle', 'person', 'riding']",[],0,1.0,False
+2926233397_71e617f3a3.jpg,a brown dog is swimming in a lake.,"['dog', 'lake', 'swimming']","['dog', 'water']","['lake', 'swimming']",2,0.3333333333333333,True
+2926595608_69b22be8d4.jpg,a basketball player in a yellow jersey is running with a ball in the background.,"['ball', 'running']","['ball', 'jumping', 'man']",['running'],1,0.5,False
+2928152792_b16c73434a.jpg,a boy is playing with a red and yellow and white and black and white shirt on a red swing,"['boy', 'playing', 'shirt']","['boy', 'child', 'girl']","['playing', 'shirt']",2,0.3333333333333333,True
+2929506802_5432054d77.jpg,a young boy in a green jacket is sitting on a red bench.,"['bench', 'boy', 'sitting']","['boy', 'child']","['bench', 'sitting']",2,0.3333333333333333,True
+2932740428_b15384f389.jpg,a person in a red jacket is riding a dirt bike on a dirt track.,"['person', 'riding']","['man', 'motorcycle', 'people', 'person', 'walking']",['riding'],1,0.5,False
+293327462_20dee0de56.jpg,a dog is playing with a blue ball in the air,"['ball', 'dog', 'playing']","['building', 'playing']","['ball', 'dog']",2,0.3333333333333333,True
+2933637854_984614e18b.jpg,a basketball player in a red uniform is running with a ball in the background.,"['ball', 'running']",['man'],"['ball', 'running']",2,0.0,True
+2933912528_52b05f84a1.jpg,two dogs are playing with a stick in the water.,"['playing', 'water']","['beach', 'running']","['playing', 'water']",2,0.0,True
+2934359101_cdf57442dc.jpg,two men are playing a game of a game of them and one is wearing a red and white uniform,['playing'],"['helmet', 'man', 'water']",['playing'],1,0.0,True
+2938120171_970564e3d8.jpg,a dog is standing on a wooden bench.,"['bench', 'dog', 'standing']","['dog', 'standing']",['bench'],1,0.6666666666666666,False
+2938747424_64e64784f0.jpg,a white dog is running through the water.,"['dog', 'running', 'water']","['beach', 'dog', 'ocean', 'running', 'water']",[],0,1.0,False
+293879742_5fe0ffd894.jpg,a dog is jumping over a fence.,"['dog', 'jumping']","['dog', 'jumping']",[],0,1.0,False
+293881927_ac62900fd4.jpg,a brown dog is jumping over a fence on a wooden fence.,"['dog', 'jumping']","['dog', 'jumping', 'standing']",[],0,1.0,False
+2943023421_e297f05e11.jpg,a person in a red jacket is riding a dirt bike in the woods.,"['person', 'riding']","['car', 'water']","['person', 'riding']",2,0.0,True
+2944362789_aebbc22db4.jpg,a person doing tricks on a skateboard in the air above a ramp.,"['person', 'skateboard']",['man'],"['person', 'skateboard']",2,0.0,True
+2944836001_b38b516286.jpg,a black and white dog jumps over a tennis ball.,"['ball', 'dog']","['ball', 'dog', 'jumping', 'man', 'playing']",[],0,1.0,False
+2944952557_8484f0da8f.jpg,two young boys play soccer.,[],"['ball', 'girl', 'people', 'playing', 'woman']",[],0,1.0,False
+2945036454_280fa5b29f.jpg,a dog jumps in the air to catch a frisbee.,['dog'],"['dog', 'jumping', 'playing']",[],0,1.0,False
+2949982320_c704b31626.jpg,a man is climbing a skateboard ramp.,"['man', 'skateboard']","['bicycle', 'building', 'man']",['skateboard'],1,0.5,False
+2950905787_f2017d3e49.jpg,a man stands on a mountain.,['man'],"['man', 'person', 'walking']",[],0,1.0,False
+2953015871_cae796b6e7.jpg,a black and white dog is jumping over a red ball.,"['ball', 'dog', 'jumping']",['dog'],"['ball', 'jumping']",2,0.3333333333333333,True
+2963573792_dd51b5fbfb.jpg,a girl is jumping off a green slide.,"['girl', 'jumping']",['girl'],['jumping'],1,0.5,False
+2966552760_e65b22cd26.jpg,a woman in a red shirt is sitting on a table with a man in the background.,"['man', 'shirt', 'sitting', 'table', 'woman']","['child', 'girl', 'shirt', 'sitting']","['man', 'table', 'woman']",3,0.4,True
+2968182121_b3b491df85.jpg,a dog is running on a track.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+2971431335_e192613db4.jpg,a man is jumping off a ramp.,"['jumping', 'man']","['jumping', 'person', 'snowboard']",['man'],1,0.5,False
+2981702521_2459f2c1c4.jpg,a man in a white shirt is walking down a street with a white bag in the background.,"['man', 'shirt', 'walking']","['people', 'standing', 'train']","['man', 'shirt', 'walking']",3,0.0,True
+2984174290_a915748d77.jpg,a man is surfing in the ocean.,"['man', 'ocean', 'surfing']","['man', 'ocean', 'surfboard']",['surfing'],1,0.6666666666666666,False
+2985679744_75a7102aab.jpg,a man in a coat and a hat sits on a bench.,"['bench', 'hat', 'man']","['man', 'sitting', 'train']","['bench', 'hat']",2,0.3333333333333333,True
+2991575785_bd4868e215.jpg,a man in a black shirt and white shirt is holding a ball in the air.,"['ball', 'man', 'shirt']","['girl', 'man', 'standing', 'woman']","['ball', 'shirt']",2,0.3333333333333333,True
+2991994415_504d1c0a03.jpg,two women in red dresses and red dresses are posing for a picture.,[],"['dress', 'girl', 'playing']",[],0,1.0,False
+2991994607_06f24ec7a6.jpg,two men in hats are standing next to a building with a man in the background.,"['building', 'man', 'standing']","['man', 'people']","['building', 'standing']",2,0.3333333333333333,True
+2994179598_a45c2732b5.jpg,a man in a red shirt is wearing a red shirt and holding a sign,"['man', 'shirt']","['man', 'shirt']",[],0,1.0,False
+2999730677_0cfa1c146e.jpg,a small dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['jumping', 'playing']","['dog', 'running']",2,0.0,True
+300314926_0b2e4b64f5.jpg,a man is surfing a wave in the air while riding a wave,"['man', 'riding', 'surfing']","['jumping', 'man', 'water']","['riding', 'surfing']",2,0.3333333333333333,True
+3003691049_f4363c2d5c.jpg,two white dogs are walking on a sidewalk in the street.,['walking'],"['car', 'dog', 'girl', 'playing']",['walking'],1,0.0,True
+3004823335_9b82cbd8a7.jpg,a black and white dog is running through a grassy field.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+300550441_f44ec3701a.jpg,a man in a brown coat and a white shirt is walking down a sidewalk on a park bench.,"['bench', 'man', 'shirt', 'walking']","['people', 'walking', 'woman']","['bench', 'man', 'shirt']",3,0.25,True
+300577375_26cc2773a1.jpg,a man in a blue jacket is standing on a city street.,"['man', 'standing']","['car', 'man']",['standing'],1,0.5,False
+3006093003_c211737232.jpg,a man in a black jacket and white jacket is standing in front of a crowd.,"['man', 'standing']","['hat', 'man']",['standing'],1,0.5,False
+300922408_05a4f9938c.jpg,a man in a red shirt is walking on a beach near a lake.,"['beach', 'lake', 'man', 'shirt', 'walking']","['beach', 'dog', 'man', 'playing', 'standing']","['lake', 'shirt', 'walking']",3,0.4,True
+3009644534_992e9ea2a7.jpg,a dog is running through a field with a ball in its mouth.,"['ball', 'dog', 'running']","['ball', 'dog']",['running'],1,0.6666666666666666,False
+3015863181_92ff43f4d8.jpg,two young boys are sitting on a sidewalk at a table with a man in the background.,"['man', 'sitting', 'table']","['ball', 'man', 'people', 'person', 'shirt']","['sitting', 'table']",2,0.3333333333333333,True
+3016606751_0e8be20abd.jpg,a man in a white shirt and black pants is standing on a rock overlooking a rocky mountain.,"['man', 'shirt', 'standing']",['man'],"['shirt', 'standing']",2,0.3333333333333333,True
+3017521547_f5ef8848e3.jpg,two men playing soccer on a field,['playing'],"['ball', 'playing', 'woman']",[],0,1.0,False
+3019842612_8501c1791e.jpg,a man in a blue shirt is standing on a skateboard with a red bag in the background.,"['man', 'shirt', 'skateboard', 'standing']","['boy', 'man', 'riding', 'shirt', 'skateboard']",['standing'],1,0.75,False
+3024172109_a10198e1dd.jpg,a man in a blue shirt is doing a trick on a skateboard,"['man', 'shirt', 'skateboard']","['boy', 'hat', 'jumping', 'man', 'shirt']",['skateboard'],1,0.6666666666666666,False
+3025549604_38b86198f5.jpg,a man and woman are sitting on a bench in front of a group of a group of a group of a group of a group of a group of a group of a group of people.,"['bench', 'man', 'people', 'sitting', 'woman']",['sitting'],"['bench', 'man', 'people', 'woman']",4,0.2,True
+3027397797_4f1d305ced.jpg,a boy is jumping on a skateboard.,"['boy', 'jumping', 'skateboard']","['beach', 'man', 'ocean', 'shirt', 'skateboard']","['boy', 'jumping']",2,0.3333333333333333,True
+3028969146_26929ae0e8.jpg,a white dog wearing a red jacket is running through the grass with a red frisbee.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+302983277_69a4e732e4.jpg,a person is walking down a mountain with a mountain in the background.,"['person', 'walking']","['horse', 'man', 'riding', 'sitting']","['person', 'walking']",2,0.0,True
+3030294889_78b2ccbe51.jpg,a black and white dog is jumping into the air while the crowd watches.,"['dog', 'jumping']","['jumping', 'people']",['dog'],1,0.5,False
+3030566410_393c36a6c5.jpg,a boy is jumping into a swimming pool while another boy watches.,"['boy', 'jumping', 'swimming']","['boy', 'child', 'water', 'woman']","['jumping', 'swimming']",2,0.3333333333333333,True
+3040033126_9f4b88261b.jpg,a dog is jumping into the water.,"['dog', 'jumping', 'water']","['dog', 'jumping', 'lake', 'water']",[],0,1.0,False
+3042380610_c5ea61eef8.jpg,a man and woman are sitting at a table with a table in the background.,"['man', 'sitting', 'table', 'woman']","['people', 'standing', 'table']","['man', 'sitting', 'woman']",3,0.25,True
+3044500219_778f9f2b71.jpg,two women in a red dress and a woman in a black dress are posing for a picture.,"['dress', 'woman']","['standing', 'woman']",['dress'],1,0.5,False
+3044536048_e615466e7f.jpg,a man in a red and black wetsuit is riding a wave in the ocean.,"['man', 'ocean', 'riding']","['man', 'ocean', 'person', 'surfboard', 'surfing']",['riding'],1,0.6666666666666666,False
+3044746136_8b89da5f40.jpg,a group of people are sitting at a table in a table with a table in the background.,"['people', 'sitting', 'table']","['man', 'people']","['sitting', 'table']",2,0.3333333333333333,True
+3045613316_4e88862836.jpg,a man and woman are standing in front of a mountain.,"['man', 'standing', 'woman']","['man', 'ocean', 'standing']",['woman'],1,0.6666666666666666,False
+3047264346_e24601bfbf.jpg,a man and woman pose for a picture.,"['man', 'woman']","['girl', 'man', 'woman']",[],0,1.0,False
+3048597471_5697538daf.jpg,a brown dog is running through the water.,"['dog', 'running', 'water']","['ball', 'dog', 'swimming', 'walking', 'water']",['running'],1,0.6666666666666666,False
+3051384385_c5c850c1f8.jpg,a boy in a blue shirt is jumping in the air while holding a red and blue sky.,"['boy', 'jumping', 'shirt']","['boy', 'child', 'playing', 'standing']","['jumping', 'shirt']",2,0.3333333333333333,True
+3052196390_c59dd24ca8.jpg,a woman in a brown shirt is playing in the water with a water fountain.,"['playing', 'shirt', 'water', 'woman']","['playing', 'running', 'water']","['shirt', 'woman']",2,0.5,False
+3053743109_a2d780c0d2.jpg,a group of people are playing basketball on a basketball court.,"['people', 'playing']","['ball', 'playing']",['people'],1,0.5,False
+3058439373_9276a4702a.jpg,a group of people are standing on a sidewalk in front of a building.,"['building', 'people', 'standing']","['people', 'standing']",['building'],1,0.6666666666666666,False
+3061481868_d1e00b1f2e.jpg,a man in a black helmet is riding a bike on a track.,"['helmet', 'man', 'riding']","['motorcycle', 'people', 'riding']","['helmet', 'man']",2,0.3333333333333333,True
+3062173277_bfb5ef4c45.jpg,a group of people are riding a boat in the water.,"['boat', 'people', 'riding', 'water']","['boat', 'people', 'person', 'water']",['riding'],1,0.75,False
+3064383768_f6838f57da.jpg,a man is surfing on a wave.,"['man', 'surfing']","['man', 'riding', 'surfboard', 'surfing']",[],0,1.0,False
+3070011270_390e597783.jpg,two dogs are playing in the water.,"['playing', 'water']","['dog', 'river', 'standing', 'swimming', 'walking', 'water']",['playing'],1,0.5,False
+3070031806_3d587c2a66.jpg,two dogs run on the beach.,['beach'],"['beach', 'dog', 'man', 'playing', 'running', 'standing']",[],0,1.0,False
+3071676551_a65741e372.jpg,a surfer is surfing a wave in the ocean.,"['ocean', 'surfing']","['person', 'riding', 'surfboard', 'surfing']",['ocean'],1,0.5,False
+3072114570_e1c0127529.jpg,a man in a black shirt and white helmet is riding a bike on a street.,"['helmet', 'man', 'riding', 'shirt']","['bicycle', 'boy', 'child', 'people', 'riding']","['helmet', 'man', 'shirt']",3,0.25,True
+3072172967_630e9c69d0.jpg,a group of men playing basketball,['playing'],['playing'],[],0,1.0,False
+307327914_f98f576adb.jpg,a man in a white shirt and blue jeans is standing in front of a man in front of a man in front of a white building.,"['building', 'man', 'shirt', 'standing']","['man', 'shirt']","['building', 'standing']",2,0.5,False
+3074842262_62b1b2168c.jpg,a boy in blue shorts is running through a field of leaves.,"['boy', 'running']","['boy', 'running', 'shirt', 'standing']",[],0,1.0,False
+3079787482_0757e9d167.jpg,a baby is holding a baby in his mouth.,[],"['child', 'girl']",[],0,1.0,False
+3080056515_3013830309.jpg,a woman in a red hat and red hat is wearing a red hat.,"['hat', 'woman']","['boy', 'child', 'girl', 'hat', 'person', 'standing']",['woman'],1,0.5,False
+308487515_7852928f90.jpg,a white dog is standing on a blue ramp with a blue bird in the background.,"['bird', 'dog', 'standing']",['bird'],"['dog', 'standing']",2,0.3333333333333333,True
+3085226474_62aba51179.jpg,a group of people are standing in front of a large building.,"['building', 'people', 'standing']",['people'],"['building', 'standing']",2,0.3333333333333333,True
+3085667767_66041b202e.jpg,a person is riding a wave in the ocean.,"['ocean', 'person', 'riding']","['surfboard', 'water']","['ocean', 'person', 'riding']",3,0.0,True
+3085667865_fa001816be.jpg,a person is riding a black surfboard.,"['person', 'riding', 'surfboard']","['jumping', 'man', 'ocean', 'person', 'surfboard', 'surfing']",['riding'],1,0.6666666666666666,False
+3095225232_2e6e6dc92e.jpg,a man is sitting on a wall with a white building.,"['building', 'man', 'sitting']","['people', 'standing']","['building', 'man', 'sitting']",3,0.0,True
+309687244_4bdf3b591f.jpg,a man climbing a rock wall.,['man'],"['man', 'shirt']",[],0,1.0,False
+3099923914_fd450f6d51.jpg,a man in a red jacket is standing in front of a large building.,"['building', 'man', 'standing']","['building', 'people', 'sitting', 'table', 'walking']","['man', 'standing']",2,0.3333333333333333,True
+3100251515_c68027cc22.jpg,a man and a woman are standing outside a colorful building with a colorful sign in the background.,"['building', 'man', 'standing', 'woman']","['building', 'people', 'walking']","['man', 'standing', 'woman']",3,0.25,True
+3106026005_473a7b1c8c.jpg,a man in a black jacket is sitting on a skateboard at a ramp.,"['man', 'sitting', 'skateboard']","['bench', 'man', 'sitting']",['skateboard'],1,0.6666666666666666,False
+3107513635_fe8a21f148.jpg,a man is standing on a city street.,"['man', 'standing']","['people', 'train']","['man', 'standing']",2,0.0,True
+3108197858_441ff38565.jpg,a group of children are playing a game with a game in the background.,['playing'],[],['playing'],1,0.0,True
+3108732084_565b423162.jpg,a snowboarder is skiing down a snowy hill.,['skiing'],"['man', 'person', 'snowboard']",['skiing'],1,0.0,True
+3109704348_c6416244ce.jpg,a soccer player is running through the air while another player in the air.,['running'],"['ball', 'man', 'playing']",['running'],1,0.0,True
+3110649716_c17e14670e.jpg,a man in a black jacket and a man in a black jacket and brown jacket is standing in front of a red building.,"['building', 'man', 'standing']","['man', 'people']","['building', 'standing']",2,0.3333333333333333,True
+311146855_0b65fdb169.jpg,a man in a green shirt and yellow shirt is standing in front of a crowd.,"['man', 'shirt', 'standing']","['man', 'people', 'woman']","['shirt', 'standing']",2,0.3333333333333333,True
+3113322995_13781860f2.jpg,a group of dogs are playing in the snow.,['playing'],"['dog', 'man', 'person']",['playing'],1,0.0,True
+3114944484_28b5bb9842.jpg,two girls are sitting in front of a group of a group of people.,"['people', 'sitting']","['girl', 'people', 'shirt', 'sitting']",[],0,1.0,False
+3115174046_9e96b9ce47.jpg,a skateboarder does a trick on a ramp.,[],['jumping'],[],0,1.0,False
+3116769029_f5a76f04ba.jpg,a boy in a green jacket is holding a green plastic bag.,['boy'],"['boy', 'playing', 'shirt']",[],0,1.0,False
+3119076670_64b5340530.jpg,a snowboarder jumps off a ramp.,[],[],[],0,1.0,False
+3119875880_22f9129a1c.jpg,a boy is climbing a rock face.,['boy'],"['boy', 'man', 'playing']",[],0,1.0,False
+3121521593_18f0ec14f7.jpg,a man in a black jacket and a black jacket is wearing a black jacket and a black jacket and a black jacket and brown jacket and a brown jacket and white hat and brown jacket and,"['hat', 'man']","['dress', 'girl', 'woman']","['hat', 'man']",2,0.0,True
+3123351642_3794f2f601.jpg,a skier is skiing down a snowy hill.,['skiing'],['jumping'],['skiing'],1,0.0,True
+3123463486_f5b36a3624.jpg,a black and white dog is running on the beach.,"['beach', 'dog', 'running']","['dog', 'running']",['beach'],1,0.6666666666666666,False
+3125309108_1011486589.jpg,a basketball player is jumping off the air while another player in the air.,['jumping'],"['ball', 'man']",['jumping'],1,0.0,True
+3128164023_ebe8da4c32.jpg,two white dogs are playing in the water.,"['playing', 'water']","['beach', 'playing', 'running']",['water'],1,0.5,False
+3135504530_0f4130d8f8.jpg,two young girls are posing for a picture.,[],"['girl', 'shirt']",[],0,1.0,False
+3138399980_d6ab8b2272.jpg,a boy in a red shirt is jumping off a rope in the air.,"['boy', 'jumping', 'shirt']","['person', 'shirt', 'woman']","['boy', 'jumping']",2,0.3333333333333333,True
+3139160252_75109e9e05.jpg,a group of people are standing in front of a large building.,"['building', 'people', 'standing']",['standing'],"['building', 'people']",2,0.3333333333333333,True
+3139876823_859c7d7c23.jpg,a person is skiing down a snowy mountain.,"['person', 'skiing']","['man', 'skis']","['person', 'skiing']",2,0.0,True
+3141293960_74459f0a24.jpg,a young girl in a red shirt is jumping on a red and white skateboard.,"['girl', 'jumping', 'shirt', 'skateboard']","['man', 'person', 'shirt', 'skateboard']","['girl', 'jumping']",2,0.5,False
+3143155555_32b6d24f34.jpg,a little girl in a pink dress is sitting on a bed with a baby in the background.,"['dress', 'girl', 'sitting']","['girl', 'playing', 'sitting']",['dress'],1,0.6666666666666666,False
+3143982558_9e2d44c155.jpg,two little girls are sitting on a bed and one is holding a toy and one of another dog.,"['dog', 'sitting']","['chair', 'dog', 'girl', 'shirt', 'sitting', 'woman']",[],0,1.0,False
+3145967309_b33abe4d84.jpg,two women in black shirts are posing for a picture.,[],"['dress', 'man', 'shirt', 'woman']",[],0,1.0,False
+3149919755_f9272b10b3.jpg,two dogs are playing in the beach.,"['beach', 'playing']","['ball', 'beach', 'dog', 'ocean', 'standing']",['playing'],1,0.5,False
+3150742439_b8a352e1e0.jpg,a man in a black jacket and red hat is standing on a sidewalk with a black and red hat and red hat and white bag in the background.,"['hat', 'man', 'standing']","['hat', 'man', 'people', 'person', 'standing']",[],0,1.0,False
+3154641421_d1b9b8c24c.jpg,a basketball player in white is jumping into the air while the player in the air.,['jumping'],"['ball', 'man', 'playing']",['jumping'],1,0.0,True
+3155390408_8e1a81efb2.jpg,a dog is jumping over a piece of a white and yellow and white and yellow and white dog on a bed.,"['dog', 'jumping']","['ball', 'dog']",['jumping'],1,0.5,False
+3155451946_c0862c70cb.jpg,a basketball player in a white uniform is trying to throw the ball.,['ball'],"['ball', 'playing']",[],0,1.0,False
+3155987659_b9ea318dd3.jpg,a black and white dog is jumping up to catch a red ball.,"['ball', 'dog', 'jumping']","['dog', 'jumping']",['ball'],1,0.6666666666666666,False
+3157847991_463e006a28.jpg,two men are standing on a bench with a white bag in the background.,"['bench', 'standing']","['building', 'standing']",['bench'],1,0.5,False
+315880837_90db309bab.jpg,two dogs are running through the snow with a red and black and white dog in its mouth.,"['dog', 'running']","['playing', 'standing']","['dog', 'running']",2,0.0,True
+3159995270_17334ccb5b.jpg,a person skiing down a snowy hill.,"['person', 'skiing']","['girl', 'hat', 'skiing', 'skis', 'woman']",['person'],1,0.5,False
+3162045919_c2decbb69b.jpg,a surfer rides a wave.,[],"['man', 'ocean', 'riding', 'surfboard', 'surfing']",[],0,1.0,False
+3167365436_c379bda282.jpg,a man in a black jacket is sitting next to a man in a black shirt and a brown jacket and a black shirt.,"['man', 'shirt', 'sitting']","['man', 'standing', 'woman']","['shirt', 'sitting']",2,0.3333333333333333,True
+3168123064_d1983b8f92.jpg,a surfer is riding a wave in the snow.,['riding'],"['ocean', 'person', 'riding', 'surfing', 'woman']",[],0,1.0,False
+317109978_cb557802e1.jpg,a brown dog is running through a wooded area.,"['dog', 'running']","['dog', 'jumping']",['running'],1,0.5,False
+317383917_d8bfa350b6.jpg,three dogs are playing in the snow.,['playing'],"['dog', 'standing']",['playing'],1,0.0,True
+317488612_70ac35493b.jpg,a dog is running through the snow,"['dog', 'running']","['dog', 'playing', 'running']",[],0,1.0,False
+3179336562_c3d0c0a3bd.jpg,a man is jumping off a ramp with a skateboard in the air.,"['jumping', 'man', 'skateboard']","['boy', 'people', 'person', 'skateboard']","['jumping', 'man']",2,0.3333333333333333,True
+3181701312_70a379ab6e.jpg,a man and a woman are sitting on a sidewalk with a white dog.,"['dog', 'man', 'sitting', 'woman']",['man'],"['dog', 'sitting', 'woman']",3,0.25,True
+3182121297_38c99b2769.jpg,a snowboarder is skiing down a snowy hill.,['skiing'],"['helmet', 'man', 'person', 'snowboard']",['skiing'],1,0.0,True
+3185371756_ff4e9fa8a6.jpg,a man in a blue shirt is wearing a red shirt and white shirt and black pants and white shirt and blue jeans is standing on the ground by a white dog.,"['dog', 'man', 'shirt', 'standing']","['girl', 'hat', 'person', 'woman']","['dog', 'man', 'shirt', 'standing']",4,0.0,True
+3185409663_95f6b958d8.jpg,a boy is jumping into the air on a beach,"['beach', 'boy', 'jumping']","['beach', 'boy', 'child', 'girl', 'ocean', 'running']",['jumping'],1,0.6666666666666666,False
+3186073578_6e115f45f5.jpg,a man in a black shirt is standing on a street with a white and black shirt and white shirt and white bag in the background.,"['man', 'shirt', 'standing']","['man', 'people', 'standing', 'walking']",['shirt'],1,0.6666666666666666,False
+3186412658_2ab2ebd397.jpg,a group of men playing basketball on the ground.,['playing'],"['ball', 'jumping', 'woman']",['playing'],1,0.0,True
+3187395715_f2940c2b72.jpg,a man is jumping on a bench in the air while another man is standing on a bench.,"['bench', 'jumping', 'man', 'standing']","['bench', 'boy', 'skateboard']","['jumping', 'man', 'standing']",3,0.25,True
+3187492926_8aa85f80c6.jpg,a man in a black wetsuit is jumping into the air while another man is jumping into the water.,"['jumping', 'man', 'water']","['lake', 'man', 'person', 'water']",['jumping'],1,0.6666666666666666,False
+3191135894_2b4bdabb6d.jpg,a group of people are standing in front of a large crowd of a large crowd of people in a large crowd of people.,"['people', 'standing']",['people'],['standing'],1,0.5,False
+3192069971_83c5a90b4c.jpg,a boy in a blue helmet is riding a red motorcycle on a red and black bike.,"['boy', 'helmet', 'motorcycle', 'riding']","['bicycle', 'boy', 'helmet', 'riding']",['motorcycle'],1,0.75,False
+3192266178_f9bf5d3dba.jpg,a man is jumping over a dog in the air while a man in the background.,"['dog', 'jumping', 'man']","['dog', 'hat', 'jumping', 'man', 'playing']",[],0,1.0,False
+3197917064_e679a44b8e.jpg,a white dog is running through the snow.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3197981073_3156963446.jpg,a girl in a black shirt is playing a guitar.,"['girl', 'playing', 'shirt']","['playing', 'woman']","['girl', 'shirt']",2,0.3333333333333333,True
+3200120942_59cfbb3437.jpg,a person is standing in the air with a large building.,"['building', 'person', 'standing']","['jumping', 'people', 'person', 'riding']","['building', 'standing']",2,0.3333333333333333,True
+3201427741_3033f5b625.jpg,two children are sitting on a bed and one is sitting in a bed and one of a baby in a blue blanket.,['sitting'],"['boy', 'child', 'woman']",['sitting'],1,0.0,True
+3203453897_6317aac6ff.jpg,a man in a black jacket is standing in front of a building.,"['building', 'man', 'standing']","['child', 'hat', 'man']","['building', 'standing']",2,0.3333333333333333,True
+3203908917_53e53c03d1.jpg,a man in a black jacket is standing in front of a large building.,"['building', 'man', 'standing']","['man', 'people', 'shirt']","['building', 'standing']",2,0.3333333333333333,True
+3207358897_bfa61fa3c6.jpg,people are walking on a city street.,"['people', 'walking']","['girl', 'people', 'person', 'woman']",['walking'],1,0.5,False
+3208074567_ac44aeb3f3.jpg,a boy in a red shirt is splashing in the water.,"['boy', 'shirt', 'water']","['boy', 'child', 'shirt', 'water']",[],0,1.0,False
+3211556865_d1d9becf69.jpg,a man is standing on a rock overlooking the mountains.,"['man', 'standing']","['man', 'person', 'river', 'standing']",[],0,1.0,False
+3213992947_3f3f967a9f.jpg,a woman in a red jacket is standing in front of a lake.,"['lake', 'standing', 'woman']","['girl', 'people', 'walking', 'woman']","['lake', 'standing']",2,0.3333333333333333,True
+3214237686_6566b8b52f.jpg,a skier is jumping over a snowy hill.,['jumping'],"['jumping', 'man', 'person', 'riding', 'snowboard']",[],0,1.0,False
+3214573346_d3a57f0328.jpg,a dog is jumping up to catch a red frisbee.,"['dog', 'jumping']","['dog', 'jumping']",[],0,1.0,False
+3214885227_2be09e7cfb.jpg,a man is standing in the water.,"['man', 'standing', 'water']","['boat', 'lake', 'man', 'person', 'riding', 'river']","['standing', 'water']",2,0.3333333333333333,True
+3216926094_bc975e84b9.jpg,a dog is running in the grass with a blue ball.,"['ball', 'dog', 'running']","['ball', 'dog', 'running']",[],0,1.0,False
+3217187564_0ffd89dec1.jpg,two dogs racing on a track.,[],"['dog', 'running']",[],0,1.0,False
+3217266166_4e0091860b.jpg,a person is standing in the air with a large fire.,"['person', 'standing']","['man', 'playing']","['person', 'standing']",2,0.0,True
+3217620013_8b17873273.jpg,a basketball player in a red uniform is running with a basketball game.,['running'],"['ball', 'man', 'playing']",['running'],1,0.0,True
+3217910740_d1d61c08ab.jpg,two young boys are standing in front of a glass at a table with a table,"['standing', 'table']",['woman'],"['standing', 'table']",2,0.0,True
+3218480482_66af7587c8.jpg,two men playing basketball on a basketball game.,['playing'],"['ball', 'playing']",[],0,1.0,False
+3220126881_b0a4f7cccb.jpg,two women in black dresses are posing for a picture.,[],"['people', 'standing', 'woman']",[],0,1.0,False
+3220161734_77f42734b9.jpg,two young girls are playing on a trampoline.,['playing'],"['boy', 'child', 'girl']",['playing'],1,0.0,True
+3220650628_4ed964e5b4.jpg,a man is standing on a city street.,"['man', 'standing']",['people'],"['man', 'standing']",2,0.0,True
+3221036999_3f7b152d8a.jpg,a man is sitting on a rock overlooking a large rock.,"['man', 'sitting']","['man', 'skateboard']",['sitting'],1,0.5,False
+3222041930_f642f49d28.jpg,a man in a blue shirt is standing on a stone wall.,"['man', 'shirt', 'standing']","['building', 'man', 'standing']",['shirt'],1,0.6666666666666666,False
+3222055946_45f7293bb2.jpg,a basketball player in a white uniform is running on the court.,['running'],"['ball', 'woman']",['running'],1,0.0,True
+3223055565_68973f5d20.jpg,a black dog is jumping into the air while another black dog is running in the snow.,"['dog', 'jumping', 'running']","['boy', 'dog', 'man', 'person', 'playing']","['jumping', 'running']",2,0.3333333333333333,True
+3223224391_be50bf4f43.jpg,a dog is running on the sidewalk.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3224227640_31865b3651.jpg,two dogs play in the grass with a white dog.,['dog'],"['dog', 'playing']",[],0,1.0,False
+3225310099_d8e419ba56.jpg,people are sitting on a dock in the air near a large body of water.,"['people', 'sitting', 'water']","['boat', 'ocean', 'people', 'water']",['sitting'],1,0.6666666666666666,False
+3227148358_f152303584.jpg,a white bird is flying over the water.,"['bird', 'water']","['bird', 'water']",[],0,1.0,False
+3228069008_edb2961fc4.jpg,a brown dog is standing on a leash with a stick in its mouth.,"['dog', 'standing']","['dog', 'walking']",['standing'],1,0.5,False
+3232470286_903a61ea16.jpg,a football player is running in a field while the player in the player is running towards the player in the player in the ball.,"['ball', 'running']","['ball', 'shirt']",['running'],1,0.5,False
+3234115903_f4dfc8fc75.jpg,two men playing basketball on a basketball court.,['playing'],"['ball', 'playing']",[],0,1.0,False
+3234401637_84e0d14414.jpg,a person riding a bike on a stone wall near the ocean.,"['ocean', 'person', 'riding']","['bicycle', 'building', 'ocean', 'people', 'riding', 'water']",['person'],1,0.6666666666666666,False
+3238951136_2a99f1a1a8.jpg,a man in a bikini is standing on a rock overlooking a rock face.,"['man', 'standing']","['man', 'standing', 'swimming', 'water']",[],0,1.0,False
+3239021459_a6b71bb400.jpg,a person on a snowboard is skiing in the snow.,"['person', 'skiing', 'snowboard']","['boy', 'child', 'man', 'people', 'riding', 'snowboard']","['person', 'skiing']",2,0.3333333333333333,True
+324208502_674488bcea.jpg,a man in a white shirt and a man in a red shirt and black pants is sitting on a red bench in front of a red building.,"['bench', 'building', 'man', 'shirt', 'sitting']","['bench', 'man', 'people', 'person', 'sitting']","['building', 'shirt']",2,0.6,False
+3243588540_b418ac7eda.jpg,a man in a white shirt is sitting at a table with a table with a man in the background.,"['man', 'shirt', 'sitting', 'table']","['girl', 'standing', 'table', 'woman']","['man', 'shirt', 'sitting']",3,0.25,True
+3244470342_c08f6bb17e.jpg,a person is standing on a snowy mountain.,"['person', 'standing']",['jumping'],"['person', 'standing']",2,0.0,True
+3244747165_17028936e0.jpg,two young boys are smiling and one is smiling and one is smiling and one is smiling and one is smiling and one is wearing a red and one is smiling and one is smiling and one,[],['people'],[],0,1.0,False
+3245070961_8977fdd548.jpg,a boy in a black shirt is running on a field,"['boy', 'running', 'shirt']","['boy', 'child', 'running', 'shirt']",[],0,1.0,False
+3245460937_2710a82709.jpg,a man in blue shorts is playing a tennis ball on a tennis court.,"['ball', 'man', 'playing']","['ball', 'boy', 'child', 'jumping']","['man', 'playing']",2,0.3333333333333333,True
+3245912109_fdeef6b456.jpg,a group of people are standing in front of a building with a group of people in the background.,"['building', 'people', 'standing']","['building', 'people', 'standing']",[],0,1.0,False
+3246991821_750a3097e2.jpg,a girl in a pink dress is holding a baby in a crowd of people.,"['dress', 'girl', 'people']","['dress', 'girl']",['people'],1,0.6666666666666666,False
+3247052319_da8aba1983.jpg,a man in a helmet is sitting on a red motorcycle with a red and black and white helmet is sitting on a red bike.,"['helmet', 'man', 'motorcycle', 'sitting']","['dog', 'hat', 'man', 'riding']","['helmet', 'motorcycle', 'sitting']",3,0.25,True
+3250695024_93e8ab7305.jpg,a woman and woman pose for a picture.,['woman'],"['child', 'girl', 'man', 'people', 'woman']",[],0,1.0,False
+3251648670_9339943ba2.jpg,two children are standing on a blue slide.,['standing'],"['running', 'walking']",['standing'],1,0.0,True
+3251976937_20625dc2b8.jpg,a brown dog is running through the snow with a stick in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3254817653_632e840423.jpg,three people in a red shirt and black pants are standing in front of a building.,"['building', 'people', 'shirt', 'standing']","['building', 'girl', 'house', 'people']","['shirt', 'standing']",2,0.5,False
+3255482333_5bcee79f7e.jpg,a skier is skiing down a snowy hill.,['skiing'],"['man', 'person', 'skiing', 'skis']",[],0,1.0,False
+3256043809_47258e0b3e.jpg,two dogs are running through the snow.,['running'],"['dog', 'walking']",['running'],1,0.0,True
+3256275785_9c3af57576.jpg,a man in a blue shirt is jumping over a wooden fence.,"['jumping', 'man', 'shirt']","['jumping', 'man', 'shirt']",[],0,1.0,False
+3258874419_23fec1bdc1.jpg,a dog is running on a track.,"['dog', 'running']","['dog', 'running', 'shirt']",[],0,1.0,False
+3259002340_707ce96858.jpg,a black dog with a blue collar is running in the grass.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3259666643_ae49524c81.jpg,a basketball player in a blue uniform is playing a basketball,['playing'],"['ball', 'boy', 'man', 'playing']",[],0,1.0,False
+3259991972_fce3ab18b2.jpg,a group of people are standing outside a building with a building in the background.,"['building', 'people', 'standing']","['man', 'standing']","['building', 'people']",2,0.3333333333333333,True
+3262075846_5695021d84.jpg,three men are playing soccer on a field,['playing'],['playing'],[],0,1.0,False
+3263395801_5e4cee2b9e.jpg,a person on a bike is riding a dirt bike in the woods.,"['person', 'riding']",['person'],['riding'],1,0.5,False
+3263497678_8bb688ca01.jpg,a man in a white shirt is standing on a track.,"['man', 'shirt', 'standing']","['people', 'running']","['man', 'shirt', 'standing']",3,0.0,True
+326456451_effadbbe49.jpg,a black dog is running through the sand.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3270691950_88583c3524.jpg,a man jumps into the water.,"['man', 'water']","['lake', 'man', 'water']",[],0,1.0,False
+327415627_6313d32a64.jpg,two dogs run through a grassy area with a stick in the background.,[],"['running', 'water']",[],0,1.0,False
+3275704430_a75828048f.jpg,a woman in black is standing next to a man in front of a building.,"['building', 'man', 'standing', 'woman']","['man', 'person', 'standing', 'woman']",['building'],1,0.75,False
+3280052365_c4644bf0a5.jpg,a young girl in a blue shirt is standing in front of a group of people.,"['girl', 'people', 'shirt', 'standing']","['child', 'girl', 'people', 'woman']","['shirt', 'standing']",2,0.5,False
+3281078518_630a7a7f4f.jpg,two white dogs are sitting on a wooden bench.,"['bench', 'sitting']",[],"['bench', 'sitting']",2,0.0,True
+3285993030_87b0f1d202.jpg,a black dog is running through the water.,"['dog', 'running', 'water']","['dog', 'running']",['water'],1,0.6666666666666666,False
+3286822339_5535af6b93.jpg,a person standing on a sidewalk with a building in the background.,"['building', 'person', 'standing']","['people', 'walking']","['building', 'person', 'standing']",3,0.0,True
+3287549827_04dec6fb6e.jpg,a snowboarder jumps off a ramp.,[],"['person', 'riding', 'snowboard']",[],0,1.0,False
+3290105461_7590f23371.jpg,a man in a white uniform is jumping into the air while another man in the air to catch a frisbee.,"['jumping', 'man']","['ball', 'man', 'playing']",['jumping'],1,0.5,False
+3294209955_a1f1e2cc19.jpg,a brown and white dog is running through the grass.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3295391572_cbfde03a10.jpg,a boy and a boy sit on a bench.,"['bench', 'boy']","['boy', 'building', 'child', 'playing', 'shirt', 'table']",['bench'],1,0.5,False
+3295680663_af21ea648b.jpg,a man in a yellow shirt is sitting in front of a yellow building.,"['building', 'man', 'shirt', 'sitting']","['bicycle', 'car', 'jumping', 'man', 'person', 'riding', 'train']","['building', 'shirt', 'sitting']",3,0.25,True
+3299820401_c2589186c5.jpg,a person rides a bike down a wooded area.,['person'],"['helmet', 'man', 'riding']",['person'],1,0.0,True
+3301811927_a2797339e5.jpg,two hockey players play in the goal.,[],['playing'],[],0,1.0,False
+3301859683_2d5e4b40a3.jpg,a skier is skiing through the snow.,['skiing'],"['man', 'person', 'skiing', 'skis']",[],0,1.0,False
+3310067561_b92017acab.jpg,a dog is standing on a sidewalk near a brick wall.,"['dog', 'standing']","['dog', 'people', 'sitting', 'walking']",['standing'],1,0.5,False
+3315616181_15dd137e27.jpg,a boy in a green shirt is jumping off a wooden wall.,"['boy', 'jumping', 'shirt']","['boy', 'man', 'shirt']",['jumping'],1,0.6666666666666666,False
+3316725440_9ccd9b5417.jpg,a man in a red helmet is riding a bike on a dirt track.,"['helmet', 'man', 'riding']","['bicycle', 'helmet', 'man', 'shirt']",['riding'],1,0.6666666666666666,False
+3317073508_7e13565c1b.jpg,a group of men playing soccer on a field,['playing'],"['ball', 'jumping', 'people', 'playing']",[],0,1.0,False
+3320032226_63390d74a6.jpg,a child in red and red pants is skiing down a snowy hill.,"['child', 'skiing']","['child', 'girl', 'sitting']",['skiing'],1,0.5,False
+3320356356_1497e53f80.jpg,a person climbing a rock climbing wall.,['person'],"['man', 'shirt']",['person'],1,0.0,True
+3323988406_e3c8fce690.jpg,a skateboarder does a trick on a ramp.,[],"['jumping', 'man']",[],0,1.0,False
+3325497914_f9014d615b.jpg,a woman in a red jacket and black pants is standing on a wooden bench.,"['bench', 'standing', 'woman']","['girl', 'woman']","['bench', 'standing']",2,0.3333333333333333,True
+3328646934_5cca4cebce.jpg,a person in white is jumping off a white wall with a white and white and white building.,"['building', 'jumping', 'person']","['boy', 'child', 'girl', 'person', 'skateboard', 'surfing', 'woman']","['building', 'jumping']",2,0.3333333333333333,True
+3332467180_d72f9b067d.jpg,a boy is standing in front of a blue building.,"['boy', 'building', 'standing']","['building', 'man', 'shirt']","['boy', 'standing']",2,0.3333333333333333,True
+3333921867_6cc7d7c73d.jpg,two dogs run through the grass with a stick in its mouth.,[],"['running', 'water']",[],0,1.0,False
+3334537556_a2cf4e9b9a.jpg,two people are standing in the snow with a sled in the background.,"['people', 'standing']","['dog', 'hat', 'man', 'people', 'skis', 'standing']",[],0,1.0,False
+3339140382_2e49bc324a.jpg,a skier is jumping in the air while another man in the air on the ground in the air in the air in the snow.,"['jumping', 'man']","['people', 'person']","['jumping', 'man']",2,0.0,True
+3344233740_c010378da7.jpg,a man and a woman are standing in front of a building.,"['building', 'man', 'standing', 'woman']","['bus', 'man', 'people', 'standing', 'walking']","['building', 'woman']",2,0.5,False
+3347666612_659e6e2207.jpg,a girl is playing in the grass with a water and red ball.,"['ball', 'girl', 'playing', 'water']","['playing', 'standing', 'water']","['ball', 'girl']",2,0.5,False
+3347798761_5c5260b000.jpg,a person is jumping off a dirt hill.,"['jumping', 'person']",['person'],['jumping'],1,0.5,False
+3348385580_10b53391f9.jpg,a man in a green jacket is jumping over a green ramp,"['jumping', 'man']","['boy', 'jumping', 'snowboard']",['man'],1,0.5,False
+3349451628_4249a21c8f.jpg,a boy wearing a black shirt and white shirt is standing on a concrete wall.,"['boy', 'shirt', 'standing']","['ball', 'boy', 'child', 'playing']","['shirt', 'standing']",2,0.3333333333333333,True
+3350786891_6d39b234e9.jpg,a group of people are sitting in a room with a colorful costumes and a group of people in the background.,"['people', 'sitting']","['people', 'sitting']",[],0,1.0,False
+3353036763_4cbeba03b2.jpg,a group of people are riding a horse and a horse in a race.,"['horse', 'people', 'riding']","['man', 'people', 'riding', 'standing']",['horse'],1,0.6666666666666666,False
+3354330935_de75be9d2f.jpg,a skier is jumping in the air in the air while another person is in the air on a snowy mountain.,"['jumping', 'person']","['man', 'person']",['jumping'],1,0.5,False
+3354883962_170d19bfe4.jpg,a white dog is running through the snow.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3358558292_6ab14193ed.jpg,two women in black shirts are posing for a picture.,[],"['boy', 'people']",[],0,1.0,False
+3358682439_be4b83544c.jpg,a man and a dog are playing with a small dog.,"['dog', 'man', 'playing']",['woman'],"['dog', 'man', 'playing']",3,0.0,True
+3359530430_249f51972c.jpg,a snowboarder is skiing down a snowy mountain.,['skiing'],"['people', 'person']",['skiing'],1,0.0,True
+3359551687_68f2f0212a.jpg,a group of people are sitting on a street in front of a crowd.,"['people', 'sitting']","['girl', 'people', 'person', 'shirt', 'sitting', 'woman']",[],0,1.0,False
+3360930596_1e75164ce6.jpg,a soccer player in a red uniform is running with a ball in the background.,"['ball', 'running']","['ball', 'jumping', 'man', 'person', 'shirt']",['running'],1,0.5,False
+3361990489_92244a58ef.jpg,a young boy in a blue shirt is climbing over a tree in the woods.,"['boy', 'shirt']","['girl', 'shirt', 'standing']",['boy'],1,0.5,False
+3363750526_efcedc47a9.jpg,a black and white dog is running on the beach.,"['beach', 'dog', 'running']","['beach', 'dog', 'running']",[],0,1.0,False
+3364026240_645d533fda.jpg,a skier is skiing down a snowy hill.,['skiing'],"['man', 'skiing', 'skis']",[],0,1.0,False
+3364151356_eecd07a23e.jpg,a brown dog is running through a fence.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3364861247_d590fa170d.jpg,a woman in a red jacket is holding a baby and black and white bag while a woman in a black shirt is holding a black and black and black and black and white shirt is holding,"['shirt', 'woman']","['girl', 'people', 'standing', 'woman']",['shirt'],1,0.5,False
+3365783912_e12c3510d8.jpg,two men in jackets are walking down a city street.,['walking'],"['people', 'walking']",[],0,1.0,False
+3375070563_3c290a7991.jpg,a white bird flies through the water.,"['bird', 'water']","['bird', 'water']",[],0,1.0,False
+3375549004_beee810e60.jpg,a man in a yellow shirt is wearing a yellow shirt and blue shirt and a yellow shirt holding a baby in a blue shirt and blue shirt and blue shirt and blue shirt with a man,"['man', 'shirt']","['man', 'people']",['shirt'],1,0.5,False
+3375991133_87d7c40925.jpg,three people are walking in the water.,"['people', 'walking', 'water']","['lake', 'people', 'playing', 'water']",['walking'],1,0.6666666666666666,False
+3384314832_dffc944152.jpg,a dog is jumping over a hurdle.,"['dog', 'jumping']","['ball', 'dog', 'jumping']",[],0,1.0,False
+3385246141_a263d1053e.jpg,a person is doing a trick on a skateboard in the air while another person is doing a jump.,"['person', 'skateboard']","['jumping', 'man', 'person', 'skis']",['skateboard'],1,0.5,False
+3385593926_d3e9c21170.jpg,two dogs are playing in the snow.,['playing'],['playing'],[],0,1.0,False
+3387542157_81bfd00072.jpg,a young boy in a red shirt is running with a ball in his hand.,"['ball', 'boy', 'running', 'shirt']","['girl', 'woman']","['ball', 'boy', 'running', 'shirt']",4,0.0,True
+3388330419_85d72f7cda.jpg,a girl in a red dress is standing in front of a man in a woman in a house.,"['dress', 'girl', 'house', 'man', 'standing', 'woman']","['house', 'playing']","['dress', 'girl', 'man', 'standing', 'woman']",5,0.16666666666666666,True
+3393343330_b13df4d8ec.jpg,a man and a woman sit at a table with a table in a subway,"['man', 'table', 'woman']","['man', 'sitting', 'table']",['woman'],1,0.6666666666666666,False
+339350939_6643bfb270.jpg,two dogs are running on the beach near the ocean.,"['beach', 'ocean', 'running']","['beach', 'dog', 'ocean', 'running']",[],0,1.0,False
+3393926562_66cc01b001.jpg,a man in a black jacket and blue jacket is standing on a sidewalk with a white and blue sky.,"['man', 'standing']","['man', 'shirt', 'standing']",[],0,1.0,False
+3396157719_6807d52a81.jpg,a dog is running on a ramp.,"['dog', 'running']","['dog', 'standing']",['running'],1,0.5,False
+339658315_fbb178c252.jpg,a boy is riding a skateboard on a skateboard.,"['boy', 'riding', 'skateboard']","['building', 'chair', 'standing', 'table', 'woman']","['boy', 'riding', 'skateboard']",3,0.0,True
+3397220683_4aca010f86.jpg,a dog is skiing down a snow covered hill.,"['dog', 'skiing']","['dog', 'man', 'person', 'skiing', 'skis', 'standing']",[],0,1.0,False
+3398746625_5199beea71.jpg,a man is jumping into the air while another man is standing in the ocean.,"['jumping', 'man', 'ocean', 'standing']","['beach', 'man', 'water']","['jumping', 'ocean', 'standing']",3,0.25,True
+3399284917_721aefe2a7.jpg,a boy is swinging on a swing in the air on a swing,['boy'],"['boy', 'chair', 'child', 'standing', 'woman']",[],0,1.0,False
+3406930103_4db7b4dde0.jpg,a golden retriever is walking through the snow.,['walking'],['dog'],['walking'],1,0.0,True
+3411393875_a9ff73c67a.jpg,two women in red shirts are posing for a picture.,[],"['car', 'girl', 'man', 'shirt', 'standing', 'woman']",[],0,1.0,False
+3413571342_b9855795e2.jpg,a man is surfing on a yellow surfboard.,"['man', 'surfboard', 'surfing']","['man', 'ocean', 'riding', 'surfboard', 'surfing']",[],0,1.0,False
+3416091866_a96003d652.jpg,a man in a white shirt and black pants is standing in front of a large store.,"['man', 'shirt', 'standing']","['car', 'man', 'people', 'shirt', 'standing']",[],0,1.0,False
+3421789737_f625dd17ed.jpg,a boy is jumping over a yellow and blue slide.,"['boy', 'jumping']","['boy', 'child', 'standing']",['jumping'],1,0.5,False
+3422458549_f3f3878dbf.jpg,a man in a red shirt is playing a tennis ball with a tennis ball.,"['ball', 'man', 'playing', 'shirt']","['ball', 'playing', 'woman']","['man', 'shirt']",2,0.5,False
+3424424006_98f9d1921c.jpg,a man in a black shirt is jumping into the air while another man is in the air.,"['jumping', 'man', 'shirt']","['dress', 'man', 'woman']","['jumping', 'shirt']",2,0.3333333333333333,True
+3425835357_204e620a66.jpg,a boy in a green shirt is standing on a sidewalk with his arms around him.,"['boy', 'shirt', 'standing']","['boy', 'man', 'people', 'person', 'shirt', 'standing']",[],0,1.0,False
+3425851292_de92a072ee.jpg,a tennis player in a yellow uniform is playing a tennis ball while another man in the tennis match.,"['ball', 'man', 'playing']","['man', 'shirt']","['ball', 'playing']",2,0.3333333333333333,True
+3427118504_93126c83e0.jpg,a man and a woman are standing in front of a glass and a man in front of a store.,"['man', 'standing', 'woman']","['child', 'girl', 'man', 'shirt']","['standing', 'woman']",2,0.3333333333333333,True
+3427233064_6af01bfc5c.jpg,a girl in a pink dress is jumping over a fence.,"['dress', 'girl', 'jumping']","['girl', 'horse', 'standing']","['dress', 'jumping']",2,0.3333333333333333,True
+3429956016_3c7e3096c2.jpg,a person in red pants is standing on a snowy mountain.,"['person', 'standing']","['man', 'person']",['standing'],1,0.5,False
+3430607596_7e4f74e3ff.jpg,a boy in red shorts jumping into the water.,"['boy', 'jumping', 'water']","['boy', 'jumping', 'people', 'river', 'water']",[],0,1.0,False
+343218198_1ca90e0734.jpg,a black dog is running through the grass with a white dog.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3432550415_e7b77232de.jpg,a man is sitting on a green bench.,"['bench', 'man', 'sitting']","['boy', 'building', 'riding', 'skateboard', 'standing']","['bench', 'man', 'sitting']",3,0.0,True
+3433982387_3fa993cf5a.jpg,a girl in a white dress is blowing bubbles with a pink and blue ball.,"['ball', 'dress', 'girl']","['dress', 'girl', 'playing', 'woman']",['ball'],1,0.6666666666666666,False
+3435035138_af32890a4c.jpg,a white dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3436063693_15c8d377a2.jpg,a dog wearing a blue shirt is running through the grass with a blue ball.,"['ball', 'dog', 'running', 'shirt']","['dog', 'sitting']","['ball', 'running', 'shirt']",3,0.25,True
+3437147889_4cf26dd525.jpg,a person in a red and white helmet is riding a dirt bike on a dirt track.,"['helmet', 'person', 'riding']","['people', 'riding']","['helmet', 'person']",2,0.3333333333333333,True
+3437654963_c4fdc17e8b.jpg,a dog is standing in the water with a large stick in its mouth.,"['dog', 'standing', 'water']",[],"['dog', 'standing', 'water']",3,0.0,True
+3439382048_d2e23b2b4c.jpg,a basketball player is jumping off a ramp while the player in the air while the crowd watches.,['jumping'],"['ball', 'jumping', 'man', 'people']",[],0,1.0,False
+3442242092_e579538d82.jpg,a woman in a white shirt and a man in a black shirt and a woman in a white shirt and brown shirt and a woman in a black shirt and white shirt are standing in front,"['man', 'shirt', 'standing', 'woman']","['girl', 'walking']","['man', 'shirt', 'standing', 'woman']",4,0.0,True
+3449114979_6cdc3e8da8.jpg,two boys are sitting on a bench and one is sitting in a black and one is sitting on a white and one is sitting in a black and one is sitting on a black and one,"['bench', 'sitting']",['sitting'],['bench'],1,0.5,False
+3450874870_c4dcf58fb3.jpg,a skier is skiing down a snowy mountain.,['skiing'],"['man', 'people', 'skis', 'woman']",['skiing'],1,0.0,True
+3452127051_fa54a902b3.jpg,a brown dog is running through a red and white fence with a red frisbee.,"['dog', 'running']","['dog', 'jumping']",['running'],1,0.5,False
+3453259666_9ecaa8bb4b.jpg,a boy is swinging on a swing,['boy'],['playing'],['boy'],1,0.0,True
+3456362961_d8f7e347a8.jpg,a boy climbing a rock wall.,['boy'],"['child', 'girl']",['boy'],1,0.0,True
+3457045393_2bbbb4e941.jpg,two young girls are posing for a picture with a picture.,[],"['child', 'girl', 'woman']",[],0,1.0,False
+3458211052_bb73084398.jpg,people are walking through a field with a group of people in the background.,"['people', 'walking']","['people', 'standing']",['walking'],1,0.5,False
+3458559770_12cf9f134e.jpg,a person in a blue and white helmet is riding a motorcycle on a dirt track.,"['helmet', 'motorcycle', 'person', 'riding']","['helmet', 'people', 'person']","['motorcycle', 'riding']",2,0.5,False
+3459156091_c1879ebe28.jpg,a dog is jumping over a blue and white dog on a city street.,"['dog', 'jumping']","['boy', 'child', 'man', 'standing']","['dog', 'jumping']",2,0.0,True
+3461041826_0e24cdf597.jpg,a dog is jumping into the water.,"['dog', 'jumping', 'water']","['dog', 'playing', 'water']",['jumping'],1,0.6666666666666666,False
+3462454965_a481809cea.jpg,two dogs are running through the grass with a black dog.,"['dog', 'running']","['lake', 'running', 'table']",['dog'],1,0.5,False
+3467219837_7d62213dec.jpg,two dogs run through the mud.,[],['dog'],[],0,1.0,False
+3468694409_a51571d621.jpg,a group of people are standing in front of a large building.,"['building', 'people', 'standing']",['people'],"['building', 'standing']",2,0.3333333333333333,True
+3470951932_27ed74eb0b.jpg,a boy in a red uniform is running on a field,"['boy', 'running']","['boy', 'child', 'running']",[],0,1.0,False
+3471841031_a949645ba8.jpg,two men sitting on a bench in front of a fence.,"['bench', 'sitting']","['bench', 'child', 'man', 'people', 'sitting', 'woman']",[],0,1.0,False
+3472364264_dbde5a8d0a.jpg,a black dog is running on the beach by the beach.,"['beach', 'dog', 'running']","['beach', 'dog', 'running']",[],0,1.0,False
+3473264983_67917a931f.jpg,a group of people are standing on a grassy field.,"['people', 'standing']","['ball', 'people', 'playing']",['standing'],1,0.5,False
+3474406285_01f3d24b71.jpg,a black dog is running through a white and white dog with a red frisbee.,"['dog', 'running']","['dog', 'jumping']",['running'],1,0.5,False
+3477715432_79d82487bb.jpg,two young boys play with a ball in the background.,['ball'],['girl'],['ball'],1,0.0,True
+3480051754_18e5802558.jpg,a group of people are sitting on a bench in the middle of a white and blue sky.,"['bench', 'people', 'sitting']","['people', 'sitting', 'standing']",['bench'],1,0.6666666666666666,False
+3482062809_3b694322c4.jpg,a man and woman are standing on a sidewalk near a building.,"['building', 'man', 'standing', 'woman']","['bench', 'woman']","['building', 'man', 'standing']",3,0.25,True
+3482974845_db4f16befa.jpg,a black dog running on the beach.,"['beach', 'dog', 'running']","['beach', 'dog', 'running']",[],0,1.0,False
+348380010_33bb0599ef.jpg,a dog is playing with a yellow ball in the grass.,"['ball', 'dog', 'playing']","['ball', 'dog']",['playing'],1,0.6666666666666666,False
+3484649669_7bfe62080b.jpg,a woman in a bathing suit is wearing a red shirt and yellow shirt and is holding a blue and is wearing a blue and yellow and yellow and yellow and yellow and yellow and yellow and,"['shirt', 'woman']","['girl', 'playing', 'water']","['shirt', 'woman']",2,0.0,True
+3484832904_08619300d9.jpg,a boy in a black shirt is playing tennis.,"['boy', 'playing', 'shirt']","['child', 'girl', 'playing']","['boy', 'shirt']",2,0.3333333333333333,True
+3485425825_c2f3446e73.jpg,a woman in a black shirt and white shirt is riding a bike on a bike in front of a tree.,"['riding', 'shirt', 'woman']","['bicycle', 'girl', 'man', 'standing']","['riding', 'shirt', 'woman']",3,0.0,True
+3490736665_38710f4b91.jpg,two dogs play with a tennis ball in the air,['ball'],"['building', 'dog']",['ball'],1,0.0,True
+3494394662_3edfd4a34c.jpg,a man wearing a red jacket is standing on a sidewalk with a black jacket.,"['man', 'standing']","['man', 'standing']",[],0,1.0,False
+3497224764_6e17544e0d.jpg,a woman in a white shirt is standing in front of a large building.,"['building', 'shirt', 'standing', 'woman']","['shirt', 'standing', 'woman']",['building'],1,0.75,False
+3498327617_d2e3db3ee3.jpg,a man is standing in the water with a stick in the background.,"['man', 'standing', 'water']","['dog', 'lake', 'river', 'swimming', 'water']","['man', 'standing']",2,0.3333333333333333,True
+3498997518_c2b16f0a0e.jpg,two football players are playing soccer.,['playing'],['ball'],['playing'],1,0.0,True
+3499720588_c32590108e.jpg,a man in a black shirt is standing on a sidewalk with a white guitar and black bag in the background.,"['man', 'shirt', 'standing']","['man', 'playing', 'walking']","['shirt', 'standing']",2,0.3333333333333333,True
+3500136982_bf7a85531e.jpg,a group of people are racing on a road in a race.,['people'],['people'],[],0,1.0,False
+3502343542_f9b46688e5.jpg,a man climbing a rock climbing wall.,['man'],"['people', 'water', 'woman']",['man'],1,0.0,True
+3502993968_4ee36afb0e.jpg,a person in a green jacket is riding a bike on a dirt track.,"['person', 'riding']","['bicycle', 'helmet', 'man', 'riding', 'shirt']",['person'],1,0.5,False
+3503623999_bbd5dcfb18.jpg,a woman in a red hat and black hat is holding a red and white and red hat with a red hat and black hat and white hat and red hat.,"['hat', 'woman']","['hat', 'man', 'person', 'woman']",[],0,1.0,False
+3503689049_63212220be.jpg,a man wearing sunglasses and sunglasses is wearing sunglasses and sunglasses and a blue shirt and sunglasses smiles.,"['man', 'shirt']","['man', 'shirt']",[],0,1.0,False
+350443876_c9769f5734.jpg,a boy is standing on a wooden bench.,"['bench', 'boy', 'standing']","['child', 'girl', 'person']","['bench', 'boy', 'standing']",3,0.0,True
+3504881781_6a842e043b.jpg,a man in a black shirt and white shirt is sitting on a metal bar.,"['man', 'shirt', 'sitting']",['people'],"['man', 'shirt', 'sitting']",3,0.0,True
+3506468593_7e41a6d9f1.jpg,a girl is standing in the water with a tree in the background.,"['girl', 'standing', 'water']","['girl', 'water', 'woman']",['standing'],1,0.6666666666666666,False
+3506560025_8d0f4f9ac4.jpg,a woman with a red hair and black hair is standing in front of a crowd.,"['standing', 'woman']",['woman'],['standing'],1,0.5,False
+3507076266_8b17993fbb.jpg,a man in a black jacket is holding a black and white and black horse while a man is running on a brown horse is holding a brown horse in the ground.,"['horse', 'man', 'running']","['horse', 'man', 'walking']",['running'],1,0.6666666666666666,False
+3514019869_7de4ece2a5.jpg,a black dog is jumping over a hurdle.,"['dog', 'jumping']","['dog', 'jumping']",[],0,1.0,False
+3514179514_cbc3371b92.jpg,two men playing soccer on a track.,['playing'],"['ball', 'playing']",[],0,1.0,False
+3516825206_5750824874.jpg,two young girls are sitting on a rock overlooking a large rock.,['sitting'],"['boy', 'girl', 'man', 'people', 'sitting', 'woman']",[],0,1.0,False
+3518126579_e70e0cbb2b.jpg,a man is doing a trick on a skateboard in front of a building.,"['building', 'man', 'skateboard']","['man', 'riding']","['building', 'skateboard']",2,0.3333333333333333,True
+3521374954_37371b49a4.jpg,a little girl is sitting on a wooden bench.,"['bench', 'girl', 'sitting']","['boy', 'girl', 'playing', 'standing']","['bench', 'sitting']",2,0.3333333333333333,True
+3523471597_87e0bf3b21.jpg,a man in a black shirt and red shirt is standing on a sidewalk with a sign in the background.,"['man', 'shirt', 'standing']","['man', 'people', 'standing', 'woman']",['shirt'],1,0.6666666666666666,False
+3523474077_16e14bc54c.jpg,a man in a blue shirt is standing on a stone wall.,"['man', 'shirt', 'standing']","['boy', 'building', 'man', 'shirt', 'standing']",[],0,1.0,False
+3523559027_a65619a34b.jpg,a group of people are sitting on a colorful tent on a field near a large building.,"['building', 'people', 'sitting']",['people'],"['building', 'sitting']",2,0.3333333333333333,True
+352382023_7605223d1c.jpg,a dog is running through the water with a stick in its mouth.,"['dog', 'running', 'water']","['dog', 'walking', 'water']",['running'],1,0.6666666666666666,False
+3523874798_9ba2fa46e3.jpg,a boy in a blue shirt is jumping off a cement wall while another man in the air.,"['boy', 'jumping', 'man', 'shirt']","['boy', 'child', 'helmet', 'riding', 'shirt', 'skateboard']","['jumping', 'man']",2,0.5,False
+352981175_16ff5c07e4.jpg,two people are skiing down a snowy hill.,"['people', 'skiing']","['people', 'standing']",['skiing'],1,0.5,False
+3530843182_35af2c821c.jpg,a man and a woman are sitting in front of a red car.,"['car', 'man', 'sitting', 'woman']","['boy', 'car', 'girl', 'hat', 'man', 'standing', 'woman']",['sitting'],1,0.75,False
+353180303_6a24179c50.jpg,a man in a white shirt is sitting in front of a large building.,"['building', 'man', 'shirt', 'sitting']",['woman'],"['building', 'man', 'shirt', 'sitting']",4,0.0,True
+3532205154_5674b628ea.jpg,a woman in a bikini is wearing a black shirt and a white shirt and a black shirt and a black shirt is standing in front of a man in front of a man in front of,"['man', 'shirt', 'standing', 'woman']","['hat', 'man', 'woman']","['shirt', 'standing']",2,0.5,False
+3537400880_8f410d747d.jpg,a girl jumps off a wooden fence.,['girl'],"['girl', 'jumping', 'woman']",[],0,1.0,False
+3538213870_9856a76b2a.jpg,a girl in a pink dress is standing in front of a tree.,"['dress', 'girl', 'standing']","['dress', 'girl']",['standing'],1,0.6666666666666666,False
+3539767254_c598b8e6c7.jpg,a man is standing in the water with a man in the background.,"['man', 'standing', 'water']","['boat', 'man', 'people', 'river']","['standing', 'water']",2,0.3333333333333333,True
+3540416981_4e74f08cbb.jpg,a dog is running through the grass with a white ball in its mouth.,"['ball', 'dog', 'running']","['dog', 'running']",['ball'],1,0.6666666666666666,False
+3541474181_489f19fae7.jpg,a snowboarder is skiing down a snowy mountain.,['skiing'],"['jumping', 'man']",['skiing'],1,0.0,True
+3542484764_77d8920ec9.jpg,a man in a white uniform is jumping into the air while another man is swinging on the grass,"['jumping', 'man']","['man', 'playing']",['jumping'],1,0.5,False
+3544793763_b38546a5e8.jpg,two men are jumping over a hurdle.,['jumping'],['man'],['jumping'],1,0.0,True
+3545586120_283d728a97.jpg,two men are playing with a white and yellow and white and white shirt on a red and white shirt is in the air.,"['playing', 'shirt']",['man'],"['playing', 'shirt']",2,0.0,True
+3545652636_0746537307.jpg,a boy in red is running on a soccer court.,"['boy', 'running']","['ball', 'boy', 'child', 'running']",[],0,1.0,False
+354642192_3b7666a2dd.jpg,a man is standing in the water with a large rock in the background.,"['man', 'standing', 'water']","['lake', 'person', 'swimming', 'water']","['man', 'standing']",2,0.3333333333333333,True
+3549583146_3e8bb2f7e9.jpg,a boy in a helmet rides a bike on a wooden bench.,"['bench', 'boy', 'helmet']","['bicycle', 'boy', 'helmet', 'riding']",['bench'],1,0.6666666666666666,False
+3554634863_5f6f616639.jpg,a man in a yellow shirt is standing on a city street.,"['man', 'shirt', 'standing']","['hat', 'man', 'people', 'standing']",['shirt'],1,0.6666666666666666,False
+3556598205_86c180769d.jpg,a person is riding a bike on a dirt track.,"['person', 'riding']","['man', 'person', 'riding']",[],0,1.0,False
+3558370311_5734a15890.jpg,people are riding a bike on a ramp.,"['people', 'riding']","['bicycle', 'jumping', 'man', 'people', 'person']",['riding'],1,0.5,False
+3562050678_4196a7fff3.jpg,people are standing on a stone wall with a man in the background.,"['man', 'people', 'standing']","['people', 'standing']",['man'],1,0.6666666666666666,False
+3564312955_716e86c48b.jpg,a woman in a bathing suit is swimming pool while another girl is in the water.,"['girl', 'swimming', 'water', 'woman']","['beach', 'child', 'girl', 'water']","['swimming', 'woman']",2,0.5,False
+3564543247_05cdbc31cf.jpg,a man jumps into a pool while another boy jumps into the pool.,"['boy', 'man']","['jumping', 'swimming']","['boy', 'man']",2,0.0,True
+3565598162_56044bc2f7.jpg,a group of people are standing in front of a building.,"['building', 'people', 'standing']",['walking'],"['building', 'people', 'standing']",3,0.0,True
+3567061016_62768dcce1.jpg,a bird flies over a fence.,['bird'],['bird'],[],0,1.0,False
+3568197730_a071d7595b.jpg,a boy in a blue shirt is jumping on a red and red and red and red shirt and red and white pole in the air.,"['boy', 'jumping', 'shirt']","['jumping', 'man', 'person']","['boy', 'shirt']",2,0.3333333333333333,True
+3569406219_f37ebf7b92.jpg,a man in a white shirt is sitting on a sidewalk by a brick building.,"['building', 'man', 'shirt', 'sitting']","['building', 'dress', 'man', 'people', 'walking', 'woman']","['shirt', 'sitting']",2,0.5,False
+3569979711_6507841268.jpg,a man is jumping into the air on a beach with a yellow ball in the background.,"['ball', 'beach', 'jumping', 'man']","['beach', 'boy', 'man', 'person']","['ball', 'jumping']",2,0.5,False
+3571147934_d1c8af1d6e.jpg,two women in blue dresses are standing on a sidewalk with a man in the background.,"['man', 'standing']","['building', 'girl', 'standing']",['man'],1,0.5,False
+3572267708_9d8a81d4a4.jpg,a woman in a red dress is standing on a street with a white and yellow building.,"['building', 'dress', 'standing', 'woman']",['standing'],"['building', 'dress', 'woman']",3,0.25,True
+3576259024_9c05b163aa.jpg,a person doing a trick on a bike in the air.,['person'],"['jumping', 'man', 'motorcycle', 'person']",[],0,1.0,False
+3578841731_f775cab089.jpg,a race car is driving through the dirt.,['car'],['car'],[],0,1.0,False
+3578914491_36019ba703.jpg,two dogs are playing in the grass with a stick in the background.,['playing'],"['lake', 'water']",['playing'],1,0.0,True
+3582742297_1daa29968e.jpg,two dogs run through the mud.,[],"['dog', 'playing']",[],0,1.0,False
+3584534971_b44f82c4b9.jpg,a man is riding a bike on a dirt bike in the woods.,"['man', 'riding']","['man', 'riding']",[],0,1.0,False
+3584561689_b6eb24dd70.jpg,a man in a blue shirt is playing a basketball in the air with a basketball game.,"['man', 'playing', 'shirt']","['people', 'playing']","['man', 'shirt']",2,0.3333333333333333,True
+3584930205_a3f58a4b7c.jpg,a boy in a green shirt is jumping over a red and yellow and yellow and yellow and yellow and yellow and yellow and yellow board.,"['boy', 'jumping', 'shirt']","['boy', 'man', 'person', 'skateboard']","['jumping', 'shirt']",2,0.3333333333333333,True
+3585487286_ef9a8d4c56.jpg,two dogs run through the ocean.,['ocean'],"['beach', 'jumping', 'ocean', 'playing', 'running']",[],0,1.0,False
+3585598356_8ce815bbb9.jpg,a woman in a black dress is wearing a pink dress and red dress and white dress and a pink dress with a pink and pink dress on her head.,"['dress', 'woman']",['woman'],['dress'],1,0.5,False
+3589367895_5d3729e3ea.jpg,a man and woman are sitting on a bench in front of a large building.,"['bench', 'building', 'man', 'sitting', 'woman']","['dress', 'man', 'standing']","['bench', 'building', 'sitting', 'woman']",4,0.2,True
+3589895574_ee08207d26.jpg,a boy in a blue shirt is holding a baby in his mouth.,"['boy', 'shirt']","['child', 'girl']","['boy', 'shirt']",2,0.0,True
+3591458156_f1a9a33918.jpg,a brown dog is running on the beach with a red and white dog in its mouth.,"['beach', 'dog', 'running']","['horse', 'man', 'riding']","['beach', 'dog', 'running']",3,0.0,True
+3591462960_86045906bd.jpg,a man is riding a horse on a horse with a black horse in the background.,"['horse', 'man', 'riding']","['man', 'riding']",['horse'],1,0.6666666666666666,False
+3592968286_b63c81bcd2.jpg,a woman playing a guitar on a guitar.,"['playing', 'woman']","['man', 'people', 'playing', 'woman']",[],0,1.0,False
+3592992234_6d3fe58a70.jpg,a boy in a white shirt is playing with a stick in the background.,"['boy', 'playing', 'shirt']","['man', 'shirt', 'walking']","['boy', 'playing']",2,0.3333333333333333,True
+3593392955_a4125087f6.jpg,two dogs run through the woods.,[],"['dog', 'running']",[],0,1.0,False
+3595643050_d312e4b652.jpg,a dog is jumping over a blue and white fence in a yard.,"['dog', 'jumping']","['ball', 'building', 'dog', 'house', 'jumping', 'standing']",[],0,1.0,False
+3596131692_91b8a05606.jpg,two boys play soccer on a field,[],"['ball', 'child', 'man', 'playing']",[],0,1.0,False
+3597326009_3678a98a43.jpg,a man sits on a bench with a metal pole.,"['bench', 'man']","['bench', 'boy', 'girl', 'people', 'person', 'playing', 'sitting', 'table']",['man'],1,0.5,False
+359837950_9e22ffe6c2.jpg,a black dog is running through a rocky area with a large rock.,"['dog', 'running']","['dog', 'running', 'walking']",[],0,1.0,False
+3601843201_4809e66909.jpg,a motorcycle racer is riding a red motorcycle on a track.,"['motorcycle', 'riding']","['man', 'motorcycle', 'person']",['riding'],1,0.5,False
+3602838407_bf13e49243.jpg,a black dog runs through the water with a large stick in its mouth.,"['dog', 'water']","['beach', 'dog', 'ocean', 'standing', 'water']",[],0,1.0,False
+3605061440_1d08c80a57.jpg,a group of children are playing with a small dog.,"['dog', 'playing']","['dog', 'playing']",[],0,1.0,False
+3605676864_0fb491267e.jpg,a boy is playing in a water fountain.,"['boy', 'playing', 'water']","['ball', 'beach', 'boy', 'playing']",['water'],1,0.6666666666666666,False
+3609032038_005c789f64.jpg,a man rides a dirt bike on a rocky mountain.,['man'],"['motorcycle', 'person', 'riding']",['man'],1,0.0,True
+3609645320_815c294b65.jpg,two women sitting on a stone wall and one is sitting on a stone wall next to a tree with a man in the background.,"['man', 'sitting']","['people', 'sitting']",['man'],1,0.5,False
+3610683688_bbe6d725ed.jpg,a dog is standing in the water with a stick in its mouth.,"['dog', 'standing', 'water']","['dog', 'walking', 'water']",['standing'],1,0.6666666666666666,False
+3613424631_3ae537624f.jpg,a man in a red shirt is sitting on a skateboard in the middle of a ramp.,"['man', 'shirt', 'sitting', 'skateboard']","['building', 'man', 'sitting']","['shirt', 'skateboard']",2,0.5,False
+3613800013_5a54968ab0.jpg,a white dog is running through a field with a white and white dog in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+3613955682_3860e116cf.jpg,a football player in red is running in a football game.,['running'],[],['running'],1,0.0,True
+3619416477_9d18580a14.jpg,a dog is jumping into the water.,"['dog', 'jumping', 'water']","['ball', 'dog', 'jumping', 'standing', 'water']",[],0,1.0,False
+3624327440_bef4f33f32.jpg,a surfer is riding a wave.,['riding'],"['man', 'ocean', 'riding', 'surfboard', 'surfing', 'water']",[],0,1.0,False
+3627011534_485f667b10.jpg,a girl with a pink shirt and a blue shirt is smiling and a girl in the background.,"['girl', 'shirt']","['child', 'girl', 'shirt', 'standing']",[],0,1.0,False
+3630332976_fdba22c50b.jpg,two men in red shirts are sitting on a sidewalk,['sitting'],"['boy', 'child', 'shirt']",['sitting'],1,0.0,True
+3630641436_8f9ac5b9b2.jpg,two dogs play in the water.,['water'],"['ball', 'beach', 'ocean', 'playing', 'running', 'walking', 'water']",[],0,1.0,False
+3631986552_944ea208fc.jpg,a surfer is surfing in the ocean.,"['ocean', 'surfing']","['ocean', 'water']",['surfing'],1,0.5,False
+3635577874_48ebaac734.jpg,a man is doing a trick on a bike in the air while a race.,['man'],"['bicycle', 'boy', 'jumping', 'man', 'riding']",[],0,1.0,False
+363617160_6cb0c723be.jpg,a boy in a blue shirt is playing with a red ball on a red and white building.,"['ball', 'boy', 'building', 'playing', 'shirt']",['girl'],"['ball', 'boy', 'building', 'playing', 'shirt']",5,0.0,True
+3639967449_137f48b43d.jpg,two young boys are smiling and one is holding a drink and one of another boy who is holding a red and one is holding a green and one is holding a boy who is holding a,['boy'],['sitting'],['boy'],1,0.0,True
+3640422448_a0f42e4559.jpg,a man is doing a trick on a dirt path.,['man'],"['jumping', 'man', 'riding', 'shirt']",[],0,1.0,False
+3641022607_e7a5455d6c.jpg,a man is surfing on a green surfboard.,"['man', 'surfboard', 'surfing']","['man', 'ocean', 'water']","['surfboard', 'surfing']",2,0.3333333333333333,True
+3642220260_3aa8a52670.jpg,a black dog is walking on the beach.,"['beach', 'dog', 'walking']","['beach', 'dog', 'ocean', 'swimming', 'walking']",[],0,1.0,False
+3647750811_395fbd397e.jpg,a black and white dog is running on the grass.,"['dog', 'running']","['dog', 'running', 'walking']",[],0,1.0,False
+3651971126_309e6a5e22.jpg,two dogs are running on the sidewalk.,['running'],"['dog', 'running', 'walking']",[],0,1.0,False
+3655074079_7df3812bc5.jpg,a woman in a red dress is wearing a pink dress and white dress and pink dress and pink dress is holding a pink and pink and pink and pink and pink and pink hat.,"['dress', 'hat', 'woman']","['bicycle', 'girl', 'riding', 'woman']","['dress', 'hat']",2,0.3333333333333333,True
+3655155990_b0e201dd3c.jpg,a white dog is running through the water.,"['dog', 'running', 'water']","['ocean', 'playing', 'water']","['dog', 'running']",2,0.3333333333333333,True
+3655964639_21e76383d0.jpg,a woman in a black jacket and red jacket is standing on a street with a red and white bag in the background.,"['standing', 'woman']","['bicycle', 'dress', 'man', 'people', 'walking', 'woman']",['standing'],1,0.5,False
+3657016761_d553e514d9.jpg,a boy is jumping over a blue and blue slide.,"['boy', 'jumping']","['child', 'girl', 'water']","['boy', 'jumping']",2,0.0,True
+3658427967_6e2e57458d.jpg,a boy in blue swim trunks is jumping into the water.,"['boy', 'jumping', 'water']","['beach', 'boy', 'jumping', 'man', 'water']",[],0,1.0,False
+3670907052_c827593564.jpg,a person in a red jacket is riding a dirt bike on a dirt path.,"['person', 'riding']","['jumping', 'man', 'motorcycle']","['person', 'riding']",2,0.0,True
+3673165148_67f217064f.jpg,a dog runs along the beach.,"['beach', 'dog']","['beach', 'dog', 'standing', 'water']",[],0,1.0,False
+3677318686_b018862bb7.jpg,a boy in a blue shirt is playing with a soccer ball.,"['ball', 'boy', 'playing', 'shirt']","['ball', 'boy', 'playing', 'shirt']",[],0,1.0,False
+3685328542_ab999b83bb.jpg,a man in a green shirt is jumping in the air while another man in the air.,"['jumping', 'man', 'shirt']",['man'],"['jumping', 'shirt']",2,0.3333333333333333,True
+3686924335_3c51e8834a.jpg,a man is jumping off a brick wall with a white and black and white dog.,"['dog', 'jumping', 'man']","['dog', 'jumping', 'person', 'water']",['man'],1,0.6666666666666666,False
+3688858505_e8afd1475d.jpg,a woman in a blue dress is standing in front of a group of a group of a group of a group of people.,"['dress', 'people', 'standing', 'woman']","['dress', 'girl', 'man', 'people', 'standing', 'woman']",[],0,1.0,False
+3692593096_fbaea67476.jpg,a person is rock climbing.,['person'],[],['person'],1,0.0,True
+3692892751_f6574e2700.jpg,a group of people are riding a bike in the air while a group of people watch.,"['people', 'riding']","['man', 'shirt', 'skateboard']","['people', 'riding']",2,0.0,True
+3694064560_467683205b.jpg,two women sitting on a bench and one is sitting on a wooden bench.,"['bench', 'sitting']","['boy', 'man', 'people', 'sitting']",['bench'],1,0.5,False
+3694093650_547259731e.jpg,a group of people are standing in front of a large building.,"['building', 'people', 'standing']","['building', 'people', 'standing']",[],0,1.0,False
+3694991841_141804da1f.jpg,a man is sitting on a wooden bench.,"['bench', 'man', 'sitting']","['man', 'person']","['bench', 'sitting']",2,0.3333333333333333,True
+3696698390_989f1488e7.jpg,a man in a blue shirt is riding a bike on a dirt bike in the woods.,"['man', 'riding', 'shirt']","['bicycle', 'jumping', 'man', 'riding', 'shirt']",[],0,1.0,False
+3697359692_8a5cdbe4fe.jpg,a boy in a red shirt is sitting on a bed with a red shirt and blue jeans and blue jeans and white shirt and blue jeans and blue jeans and blue jeans and blue jeans sitting,"['boy', 'shirt', 'sitting']","['boy', 'car', 'sitting']",['shirt'],1,0.6666666666666666,False
+3701291852_373ea46bb6.jpg,two boys play in the water.,['water'],"['boy', 'girl', 'lake', 'people', 'standing', 'walking']",['water'],1,0.0,True
+3702436188_2c26192fd0.jpg,a skateboarder does a skateboard trick on a skateboard.,['skateboard'],"['boy', 'jumping', 'man', 'person', 'shirt', 'skateboard']",[],0,1.0,False
+370614351_98b8a166b9.jpg,a man in a black jacket and white shirt is standing in front of a crowd.,"['man', 'shirt', 'standing']","['man', 'person']","['shirt', 'standing']",2,0.3333333333333333,True
+370713359_7560808550.jpg,a man is sitting in a table with a man in the background.,"['man', 'sitting', 'table']","['chair', 'people', 'sitting']","['man', 'table']",2,0.3333333333333333,True
+3708177171_529bb4ff1d.jpg,a skateboarder jumps over a ramp in front of a white building.,['building'],"['bench', 'boy', 'jumping', 'skateboard']",['building'],1,0.0,True
+3715469645_6d1dc019b3.jpg,two women in a white dress and a woman in a white dress and blue dress are sitting on a wooden bench.,"['bench', 'dress', 'sitting', 'woman']",['standing'],"['bench', 'dress', 'sitting', 'woman']",4,0.0,True
+3716244806_97d5a1fb61.jpg,two men are sitting on a rock overlooking a rocky mountain.,['sitting'],"['people', 'sitting']",[],0,1.0,False
+3718964174_cb2dc1615e.jpg,a young boy wearing a blue shirt is wearing a blue shirt and a blue jeans and blue jeans and blue jeans and blue jeans is wearing a blue jeans and blue jeans and blue jeans and,"['boy', 'shirt']",['woman'],"['boy', 'shirt']",2,0.0,True
+3720366614_dfa8fe1088.jpg,a dog is jumping up to catch a red frisbee.,"['dog', 'jumping']","['dog', 'jumping', 'standing']",[],0,1.0,False
+3725202807_12fbfdd207.jpg,a man in a red shirt and blue jeans is sitting on a red bike.,"['man', 'shirt', 'sitting']","['car', 'man', 'walking', 'woman']","['shirt', 'sitting']",2,0.3333333333333333,True
+3727752439_907795603b.jpg,a woman in a black tank top is holding a drink and holding a drink and smiles.,['woman'],"['dress', 'woman']",[],0,1.0,False
+3729525173_7f984ed776.jpg,a man sitting on a bench in front of a building.,"['bench', 'building', 'man', 'sitting']","['building', 'person', 'sitting', 'woman']","['bench', 'man']",2,0.5,False
+373394550_1b2296b8c4.jpg,a boy is sitting on a wooden bench.,"['bench', 'boy', 'sitting']","['bench', 'boy', 'child', 'hat']",['sitting'],1,0.6666666666666666,False
+3737539561_d1dc161040.jpg,two children are climbing on a tree with trees in the background.,[],"['playing', 'sitting', 'water']",[],0,1.0,False
+3741462565_cc35966b7a.jpg,a little boy in a pink shirt is holding a drink and holding a baby in his mouth.,"['boy', 'shirt']","['girl', 'shirt', 'sitting', 'table']",['boy'],1,0.5,False
+3741827382_71e93298d0.jpg,a boy in a green shirt jumping off a blue sky.,"['boy', 'jumping', 'shirt']","['boy', 'shirt']",['jumping'],1,0.6666666666666666,False
+3745451546_fc8ec70cbd.jpg,a person is skiing down a mountain on a mountain.,"['person', 'skiing']","['man', 'person']",['skiing'],1,0.5,False
+375392855_54d46ed5c8.jpg,a man in a yellow jacket is skiing down a snowy hill.,"['man', 'skiing']","['riding', 'skiing', 'woman']",['man'],1,0.5,False
+3767841911_6678052eb6.jpg,a boy in a red shirt is playing with a red ball.,"['ball', 'boy', 'playing', 'shirt']","['child', 'dress', 'girl', 'running', 'standing', 'water']","['ball', 'boy', 'playing', 'shirt']",4,0.0,True
+384577800_fc325af410.jpg,a dog is running through the snow with a ball in its mouth.,"['ball', 'dog', 'running']","['dog', 'running']",['ball'],1,0.6666666666666666,False
+387830531_e89c192b92.jpg,a dog is running with a ball in its mouth.,"['ball', 'dog', 'running']","['dog', 'playing']","['ball', 'running']",2,0.3333333333333333,True
+391579205_c8373b5411.jpg,a man in a blue shirt is standing on a sidewalk with a dog in the background.,"['dog', 'man', 'shirt', 'standing']","['dog', 'jumping', 'woman']","['man', 'shirt', 'standing']",3,0.25,True
+396360611_941e5849a3.jpg,a man stands on a cliff overlooking a rocky mountain.,['man'],"['man', 'person', 'standing', 'water']",[],0,1.0,False
+398662202_97e5819b79.jpg,two children playing with a toy and a game of playground equipment.,['playing'],"['child', 'playing']",[],0,1.0,False
+400851260_5911898657.jpg,a person is riding a mountain in the air in the snow.,"['person', 'riding']","['man', 'person', 'walking']",['riding'],1,0.5,False
+401079494_562454c4d6.jpg,a black dog is running through the grass with a red ball.,"['ball', 'dog', 'running']",['dog'],"['ball', 'running']",2,0.3333333333333333,True
+405615014_03be7ef618.jpg,a man in a yellow jacket and black jacket is walking down the street.,"['man', 'walking']",['man'],['walking'],1,0.5,False
+410453140_5401bf659a.jpg,a man in black pants is standing in front of a large blue building.,"['building', 'man', 'standing']","['man', 'person', 'standing', 'walking']",['building'],1,0.6666666666666666,False
+415793623_6c1225ae27.jpg,a man in a blue shirt climbs a rock wall.,"['man', 'shirt']","['man', 'person', 'shirt', 'woman']",[],0,1.0,False
+416106657_cab2a107a5.jpg,a white dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+416788726_5b4eb1466e.jpg,a man and a woman are walking down a street in front of a crowd.,"['man', 'walking', 'woman']","['man', 'people', 'standing']","['walking', 'woman']",2,0.3333333333333333,True
+416960865_048fd3f294.jpg,a man in a red jacket is skiing down a snowy mountain.,"['man', 'skiing']","['hat', 'helmet', 'man', 'person', 'woman']",['skiing'],1,0.5,False
+421322723_3470543368.jpg,a group of people are standing in front of a building with a man in the background.,"['building', 'man', 'people', 'standing']","['man', 'people', 'shirt', 'standing']",['building'],1,0.75,False
+421730441_6b2267fd31.jpg,a man in a black shirt and white shirt is standing in front of a brick building.,"['building', 'man', 'shirt', 'standing']","['building', 'hat', 'man', 'shirt', 'standing']",[],0,1.0,False
+422763475_0bc814dac6.jpg,a boy in a blue jacket and blue jeans is walking down a snowy hill.,"['boy', 'walking']","['boy', 'child', 'dog', 'running', 'snowboard']",['walking'],1,0.5,False
+424416723_19c56cb365.jpg,a dog is jumping over a tree in the air while a man in the background.,"['dog', 'jumping', 'man']","['dog', 'jumping']",['man'],1,0.6666666666666666,False
+424779662_568f9606d0.jpg,a group of people in costumes are wearing colorful costumes and one is wearing a colorful costumes and one is wearing a black and one is wearing a red costume and one is wearing a red and,['people'],[],['people'],1,0.0,True
+429851331_b248ca01cd.jpg,a dog is running through the woods.,"['dog', 'running']","['dog', 'playing', 'running']",[],0,1.0,False
+430173345_86388d8822.jpg,a brown dog is running through the grass with a yellow toy in its mouth.,"['dog', 'running']","['dog', 'running']",[],0,1.0,False
+434792818_56375e203f.jpg,a red haired man is standing on a red leash.,"['man', 'standing']","['man', 'standing', 'woman']",[],0,1.0,False
+435827376_4384c3005a.jpg,a man in a white shirt is standing on a sidewalk in front of a building.,"['building', 'man', 'shirt', 'standing']","['man', 'people', 'walking', 'woman']","['building', 'shirt', 'standing']",3,0.25,True
+436009777_440c7679a1.jpg,a man sits on a sidewalk near a building.,"['building', 'man']","['man', 'people', 'sitting', 'woman']",['building'],1,0.5,False
+439037721_cdf1fc7358.jpg,a man is standing on a cliff overlooking the water.,"['man', 'standing', 'water']","['lake', 'people', 'sitting']","['man', 'standing', 'water']",3,0.0,True
+444057017_f1e0fcaef7.jpg,a girl in a pink shirt is riding a red and yellow and yellow and yellow and yellow and yellow and yellow and yellow flowers.,"['girl', 'riding', 'shirt']","['girl', 'sitting']","['riding', 'shirt']",2,0.3333333333333333,True
+444481722_690d0cadcf.jpg,a woman in a black shirt and white shirt is walking on a sidewalk with a white building.,"['building', 'shirt', 'walking', 'woman']","['building', 'man', 'people', 'standing', 'walking', 'woman']",['shirt'],1,0.75,False
+447111935_5af98563e3.jpg,two dogs are playing in a field.,['playing'],['playing'],[],0,1.0,False
+448252603_7d928c900e.jpg,a woman sitting on a dirt path.,"['sitting', 'woman']","['boy', 'man', 'sitting']",['woman'],1,0.5,False
+448658518_eec0b648a6.jpg,a man is standing on a swing with a pole in the background.,"['man', 'standing']","['building', 'man']",['standing'],1,0.5,False
+452419961_6d42ab7000.jpg,a girl in a red jacket is sitting on a wooden bench.,"['bench', 'girl', 'sitting']",['dog'],"['bench', 'girl', 'sitting']",3,0.0,True
+460935487_75b2da7854.jpg,a small dog is standing on a sidewalk near a building.,"['building', 'dog', 'standing']","['dog', 'running']","['building', 'standing']",2,0.3333333333333333,True
+461505235_590102a5bf.jpg,a man is rock climbing.,['man'],"['man', 'ocean', 'person', 'water']",[],0,1.0,False
+463978865_c87c6ca84c.jpg,a man in jeans is walking down a road on a sidewalk with a street in the background.,"['man', 'walking']","['man', 'sitting', 'walking']",[],0,1.0,False
+464251704_b0f0c4c87a.jpg,a girl in a pink tutu is flying over a red and white pole in the air.,['girl'],['girl'],[],0,1.0,False
+466956209_2ffcea3941.jpg,a man is rock climbing.,['man'],['person'],['man'],1,0.0,True
+468102269_135938e209.jpg,two men are standing in front of a large building.,"['building', 'standing']","['man', 'people', 'woman']","['building', 'standing']",2,0.0,True
+468310111_d9396abcbd.jpg,a brown dog is running through a field with a brown dog.,"['dog', 'running']","['cow', 'dog', 'running', 'sheep']",[],0,1.0,False
+468608014_09fd20eb9b.jpg,a dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'person', 'playing']",['running'],1,0.5,False
+470373679_98dceb19e7.jpg,three people are standing on a mountain.,"['people', 'standing']","['building', 'people']",['standing'],1,0.5,False
+473220329_819a913bbb.jpg,a woman in a black shirt and a woman in a park bench.,"['bench', 'shirt', 'woman']","['walking', 'woman']","['bench', 'shirt']",2,0.3333333333333333,True
+476233374_e1396998ef.jpg,a girl in a pink dress is sitting on a rock overlooking the ocean.,"['dress', 'girl', 'ocean', 'sitting']","['beach', 'boy', 'child', 'girl', 'playing', 'water']","['dress', 'ocean', 'sitting']",3,0.25,True
+476759700_8911f087f8.jpg,a boy in a green shirt is running in the street.,"['boy', 'running', 'shirt']","['man', 'shirt']","['boy', 'running']",2,0.3333333333333333,True
+480505313_2dc686e5db.jpg,a man in a black hat is standing in a fountain at a fountain,"['hat', 'man', 'standing']",['water'],"['hat', 'man', 'standing']",3,0.0,True
+485245061_5a5de43e20.jpg,a man in a red jacket and black jacket is skiing down a snowy mountain.,"['man', 'skiing']",['man'],['skiing'],1,0.5,False
+486712504_36be449055.jpg,a dog is jumping over a blue and blue slide.,"['dog', 'jumping']","['dog', 'jumping']",[],0,1.0,False
+486917990_72bd4069af.jpg,a man is climbing a snowy mountain.,['man'],"['girl', 'hat', 'person']",['man'],1,0.0,True
+488356951_b3b77ad832.jpg,a man in a red shirt is sitting on a white bench.,"['bench', 'man', 'shirt', 'sitting']","['hat', 'man', 'shirt', 'sitting']",['bench'],1,0.75,False
+488408004_a1e26d4886.jpg,a young boy in a blue shirt is walking on a sidewalk in the grass with a blue shirt.,"['boy', 'shirt', 'walking']","['boy', 'child', 'shirt', 'walking']",[],0,1.0,False
+488590040_35a3e96c89.jpg,a man in a red jacket is standing on a beach with a fishing pole in the background.,"['beach', 'man', 'standing']","['boat', 'standing', 'water']","['beach', 'man']",2,0.3333333333333333,True
+491405109_798222cfd0.jpg,two girls are sitting on a bed and one is wearing a blue and one is holding a pink and one is holding a toy and one is wearing a pink and one is holding a pink,['sitting'],['girl'],['sitting'],1,0.0,True
+493109089_468e105233.jpg,a boy is jumping over a red and red and red playground equipment.,"['boy', 'jumping']","['boy', 'child', 'playing']",['jumping'],1,0.5,False
+493621130_152bdd4e91.jpg,a brown dog is jumping into the water.,"['dog', 'jumping', 'water']","['boat', 'dog', 'jumping', 'lake', 'water']",[],0,1.0,False
+494792770_2c5f767ac0.jpg,a dog is running through the grass with a stick in its mouth.,"['dog', 'running']","['dog', 'standing']",['running'],1,0.5,False
+494921598_af73bda568.jpg,a hockey player is playing a game on the ice.,['playing'],"['child', 'people', 'playing']",[],0,1.0,False
+496110746_a93ca191ae.jpg,a girl in a red shirt is jumping off a wooden fence.,"['girl', 'jumping', 'shirt']","['child', 'girl', 'shirt']",['jumping'],1,0.6666666666666666,False
+497791037_93499238d8.jpg,a boy is jumping on a swing at a park.,"['boy', 'jumping']","['boy', 'child', 'jumping', 'shirt']",[],0,1.0,False
+498444334_a680d318a1.jpg,three men sitting on a sidewalk and one man in front of a building.,"['building', 'man', 'sitting']",['boy'],"['building', 'man', 'sitting']",3,0.0,True
+500446858_125702b296.jpg,a white dog is running through a field with a man in the background.,"['dog', 'man', 'running']","['dog', 'people', 'playing', 'running']",['man'],1,0.6666666666666666,False
+505929313_7668f021ab.jpg,a black dog is running through the water.,"['dog', 'running', 'water']","['ball', 'dog', 'running', 'standing', 'water']",[],0,1.0,False
+506367606_7cca2bba9b.jpg,a boy in a black shirt sitting on a wooden bench.,"['bench', 'boy', 'shirt', 'sitting']","['girl', 'person', 'sitting', 'standing', 'woman']","['bench', 'boy', 'shirt']",3,0.25,True
+506738508_327efdf9c3.jpg,two men in white suits are posing for a picture.,[],[],[],0,1.0,False
+509123893_07b8ea82a9.jpg,two girls are sitting on a sidewalk holding a yellow flowers.,['sitting'],['sitting'],[],0,1.0,False
+509778093_21236bb64d.jpg,a brown and white dog is running on the grass with a white dog.,"['dog', 'running']","['ball', 'dog', 'playing']",['running'],1,0.5,False
+510531976_90bbee22a2.jpg,a skateboarder jumps into the air while another man is in the air to get the air.,['man'],"['boy', 'child', 'man', 'shirt']",[],0,1.0,False
+512101751_05a6d93e19.jpg,a white dog is running through the grass with a red ball.,"['ball', 'dog', 'running']","['dog', 'running']",['ball'],1,0.6666666666666666,False
+514990193_2d2422af2c.jpg,a girl in a pink dress is sitting on a bed in a bed in a bed in a park bench.,"['bench', 'dress', 'girl', 'sitting']","['girl', 'sitting', 'woman']","['bench', 'dress']",2,0.5,False
+522063319_33827f1627.jpg,a boy wearing a black hat and white hat is wearing a black hat and black hat and black hat and black hat and white hat and black hat and black hat and white hat and black,"['boy', 'hat']",[],"['boy', 'hat']",2,0.0,True
+523985664_c866af4850.jpg,a man and woman pose for a picture.,"['man', 'woman']","['girl', 'woman']",['man'],1,0.5,False
+524105255_b346f288be.jpg,a woman in a blue jacket and hat is standing in front of a large building.,"['building', 'hat', 'standing', 'woman']","['girl', 'sitting', 'woman']","['building', 'hat', 'standing']",3,0.25,True
+524282699_71e678a6bd.jpg,a dog runs through the water with a stick in its mouth.,"['dog', 'water']","['beach', 'dog', 'playing', 'running']",['water'],1,0.5,False
+525863257_053333e612.jpg,a man is sitting on a rock overlooking a lake.,"['lake', 'man', 'sitting']","['hat', 'man', 'river', 'water']","['lake', 'sitting']",2,0.3333333333333333,True
+53043785_c468d6f931.jpg,a man is standing in the water with a large stick in the background.,"['man', 'standing', 'water']","['man', 'river', 'standing', 'water']",[],0,1.0,False
+532457586_bddfc5251d.jpg,a man and a woman sitting on a bench in front of a wooden bench.,"['bench', 'man', 'sitting', 'woman']","['bench', 'dog', 'girl', 'hat', 'man', 'shirt', 'sitting', 'skateboard', 'woman']",[],0,1.0,False
+533483374_86c5d4c13e.jpg,two dogs run on the beach.,['beach'],"['ball', 'beach', 'dog', 'ocean', 'standing']",[],0,1.0,False
+533713007_bf9f3e25b4.jpg,a boy is playing with a guitar and a small child in the background.,"['boy', 'child', 'playing']","['boy', 'child', 'sitting', 'table']",['playing'],1,0.6666666666666666,False
+533979933_a95b03323b.jpg,a young boy in shorts is standing in the ocean.,"['boy', 'ocean', 'standing']","['beach', 'boy', 'ocean', 'walking', 'water']",['standing'],1,0.6666666666666666,False
+534875358_6ea30d3091.jpg,a boy in a blue jacket is walking down a street.,"['boy', 'walking']","['girl', 'shirt', 'walking', 'woman']",['boy'],1,0.5,False
+535830521_aa971319fc.jpg,"a man in a blue shirt is standing on a sidewalk with a sign that says "" sign.","['man', 'shirt', 'standing']","['person', 'woman']","['man', 'shirt', 'standing']",3,0.0,True
+537532165_e4b7c0e61a.jpg,a girl is jumping over a blue and blue slide.,"['girl', 'jumping']","['child', 'girl', 'playing']",['jumping'],1,0.5,False
+537559285_29be110134.jpg,a dog jumping over a yellow pole in the air.,"['dog', 'jumping']","['dog', 'jumping', 'running']",[],0,1.0,False
+539751252_2bd88c456b.jpg,a boy is playing in a pool while a boy is playing in the blue water.,"['boy', 'playing', 'water']","['boy', 'child', 'water']",['playing'],1,0.6666666666666666,False
+540721368_12ac732c6c.jpg,a young girl in a pink dress is holding a baby in a blue shirt.,"['dress', 'girl', 'shirt']","['dress', 'girl']",['shirt'],1,0.6666666666666666,False
+541063517_35044c554a.jpg,a man is sitting on a mountain.,"['man', 'sitting']","['man', 'shirt', 'sitting']",[],0,1.0,False
+542179694_e170e9e465.jpg,two children are playing with a ball on a street in the street.,"['ball', 'playing']","['dog', 'man', 'running', 'truck']","['ball', 'playing']",2,0.0,True
+542317719_ed4dd95dc2.jpg,a boy in a red shirt is standing in a blue shirt and holding a blue slide.,"['boy', 'shirt', 'standing']","['boy', 'child', 'playing']","['shirt', 'standing']",2,0.3333333333333333,True
+543007912_23fc735b99.jpg,two young boys are standing on a skateboard.,"['skateboard', 'standing']",['jumping'],"['skateboard', 'standing']",2,0.0,True
+544576742_283b65fa0d.jpg,a man in a red shirt climbs a rock face.,"['man', 'shirt']",['woman'],"['man', 'shirt']",2,0.0,True
+54501196_a9ac9d66f2.jpg,a man in a black shirt and white shirt is standing on a snowy mountain.,"['man', 'shirt', 'standing']",['man'],"['shirt', 'standing']",2,0.3333333333333333,True
+561417861_8e25d0c0e8.jpg,a man in a white shirt and black hat is standing in front of a building.,"['building', 'hat', 'man', 'shirt', 'standing']","['building', 'man', 'people', 'walking']","['hat', 'shirt', 'standing']",3,0.4,True
+561940436_64d6fc125d.jpg,a group of people are sitting on a bench and one of people are sitting on the street.,"['bench', 'people', 'sitting']","['bench', 'man', 'sitting', 'woman']",['people'],1,0.6666666666666666,False
+56489627_e1de43de34.jpg,a group of people are walking through the mountains.,"['people', 'walking']","['boy', 'man', 'person', 'walking']",['people'],1,0.5,False
+566397227_a469e9e415.jpg,a boy in a white shirt is running through a field with a green grass.,"['boy', 'running', 'shirt']","['boy', 'child', 'shirt', 'walking']",['running'],1,0.6666666666666666,False
+57422853_b5f6366081.jpg,a man in a red jacket is standing on a mountain.,"['man', 'standing']","['man', 'person']",['standing'],1,0.5,False
+583174725_6b522b621f.jpg,a boy in a blue shirt is running on a sidewalk with a skateboard.,"['boy', 'running', 'shirt', 'skateboard']","['girl', 'jumping']","['boy', 'running', 'shirt', 'skateboard']",4,0.0,True
+624742559_ff467d8ebc.jpg,a man is jumping over a blue ramp on a blue ramp with a blue and blue sky.,"['jumping', 'man']","['boy', 'child', 'hat', 'playing']","['jumping', 'man']",2,0.0,True
+670609997_5c7fdb3f0b.jpg,a black and white dog is jumping over a tree in the grass,"['dog', 'jumping']","['dog', 'jumping']",[],0,1.0,False
+700884207_d3ec546494.jpg,a girl in a pink shirt and blue hat is sitting in a bed with a blue shirt and blue and blue shirt and blue hat.,"['girl', 'hat', 'shirt', 'sitting']","['hat', 'woman']","['girl', 'shirt', 'sitting']",3,0.25,True
+70995350_75d0698839.jpg,a man is surfing on a wave in the air with a white and black and white surfboard.,"['man', 'surfboard', 'surfing']","['man', 'person', 'surfboard']",['surfing'],1,0.6666666666666666,False
+732468337_a37075225e.jpg,two little boys are playing with a toy on a bed and a bed in the floor.,['playing'],['playing'],[],0,1.0,False
+745880539_cd3f948837.jpg,a white dog is running through a field with a yellow toy.,"['dog', 'running']",['dog'],['running'],1,0.5,False
+747921928_48eb02aab2.jpg,a boy in a yellow shirt is standing in the air with a large bubble,"['boy', 'shirt', 'standing']","['boy', 'child']","['shirt', 'standing']",2,0.3333333333333333,True
+751109943_2a7f8e117f.jpg,a girl in a pink dress is standing in front of a white building.,"['building', 'dress', 'girl', 'standing']","['dress', 'girl', 'water']","['building', 'standing']",2,0.5,False
+751737218_b89839a311.jpg,a boy in a red shirt and blue shirt is jumping off a tire swing,"['boy', 'jumping', 'shirt']","['boy', 'girl', 'person', 'shirt', 'water', 'woman']",['jumping'],1,0.6666666666666666,False
+754852108_72f80d421f.jpg,a man wearing a hat and hat is wearing a hat and hat and a hat and a hat is wearing a hat and hat and a hat and a hat and a hat is wearing a,"['hat', 'man']","['hat', 'man']",[],0,1.0,False
+757046028_ff5999f91b.jpg,a man in a black shirt and white shirt is playing a guitar.,"['man', 'playing', 'shirt']","['boy', 'child', 'man', 'playing']",['shirt'],1,0.6666666666666666,False
+757332692_6866ae545c.jpg,a small dog is laying on a bed with a blue collar in the background.,['dog'],"['dog', 'girl', 'playing', 'woman']",[],0,1.0,False
+758921886_55a351dd67.jpg,a girl in a blue shirt is sitting on a rock wall.,"['girl', 'shirt', 'sitting']","['dress', 'girl']","['shirt', 'sitting']",2,0.3333333333333333,True
+766099402_cdda6964f0.jpg,a woman in a red shirt is standing on a stage in front of a group of a group of a group of a group of a group of people in front of a white and white,"['people', 'shirt', 'standing', 'woman']","['dress', 'riding', 'woman']","['people', 'shirt', 'standing']",3,0.25,True
+771048251_602e5e8f45.jpg,a man with a brown hat is sitting on a bed and a brown dog.,"['dog', 'hat', 'man', 'sitting']","['cat', 'child', 'girl']","['dog', 'hat', 'man', 'sitting']",4,0.0,True
+791338571_7f38510bf7.jpg,a black dog is running through a grassy area.,"['dog', 'running']","['car', 'cow', 'standing']","['dog', 'running']",2,0.0,True
+799486353_f665d7b0f0.jpg,a young girl is sitting on a beach with a yellow shirt and yellow shirt and yellow shirt in the background.,"['beach', 'girl', 'shirt', 'sitting']","['beach', 'child', 'girl', 'ocean', 'standing', 'surfboard', 'woman']","['shirt', 'sitting']",2,0.5,False
+801607443_f15956d1ce.jpg,a man is rock climbing on a rock wall with a rock face.,['man'],"['ocean', 'people', 'sitting', 'water']",['man'],1,0.0,True
+820169182_f5e78d7d19.jpg,two children playing with a ball on a colorful carpet.,"['ball', 'playing']",['playing'],['ball'],1,0.5,False
+86412576_c53392ef80.jpg,a man in a red outfit is standing on a sidewalk with a white and black and white and red hat.,"['hat', 'man', 'standing']","['beach', 'building', 'man', 'people', 'walking']","['hat', 'standing']",2,0.3333333333333333,True
+872622575_ba1d3632cc.jpg,a man climbing a rock wall with a rope.,['man'],['man'],[],0,1.0,False
+880220939_0ef1c37f1f.jpg,a girl in a pink dress is in a pink dress in a pink dress in a pink dress in a pink dress,"['dress', 'girl']","['people', 'walking', 'woman']","['dress', 'girl']",2,0.0,True
+888425986_e4b6c12324.jpg,a boy is jumping off a wooden ramp in the air on a wooden bench.,"['bench', 'boy', 'jumping']","['boy', 'lake', 'person']","['bench', 'jumping']",2,0.3333333333333333,True
+909191414_1cf5d85821.jpg,a boy in a red shirt and blue shirt is sitting on a green grass in front of a white building.,"['boy', 'building', 'shirt', 'sitting']","['boy', 'girl', 'house', 'jumping', 'playing', 'water']","['building', 'shirt', 'sitting']",3,0.25,True
+909808296_23c427022d.jpg,two dogs are playing on a sidewalk with a stick in the background.,['playing'],['dog'],['playing'],1,0.0,True
+917574521_74fab68514.jpg,two little girls are playing in a red and white dress on a red dress in a red dress,"['dress', 'playing']","['girl', 'playing']",['dress'],1,0.5,False
+925491651_57df3a5b36.jpg,a white dog is running through the water.,"['dog', 'running', 'water']","['dog', 'jumping', 'lake', 'water']",['running'],1,0.6666666666666666,False
+929679367_ff8c7df2ee.jpg,a black and brown dog is playing with a tennis ball in the background.,"['ball', 'dog', 'playing']","['ball', 'dog', 'playing']",[],0,1.0,False
+96420612_feb18fc6c6.jpg,a man in a white shirt is sitting on a rock with a large rock in the background.,"['man', 'shirt', 'sitting']","['jumping', 'man', 'water']","['shirt', 'sitting']",2,0.3333333333333333,True
+968081289_cdba83ce2e.jpg,a boy is jumping off a wooden bench.,"['bench', 'boy', 'jumping']","['boy', 'jumping', 'lake', 'river', 'water']",['bench'],1,0.6666666666666666,False
+979383193_0a542a059d.jpg,three children sitting on a bench in front of a wooden bench.,"['bench', 'sitting']","['sitting', 'table']",['bench'],1,0.5,False
+997722733_0cb5439472.jpg,a man is climbing a rock wall with a rock face.,['man'],"['man', 'person', 'shirt']",[],0,1.0,False

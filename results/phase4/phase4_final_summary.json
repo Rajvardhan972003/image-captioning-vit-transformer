@@ -1,0 +1,14 @@
+{
+    "phase": "Phase 4 - Hallucination Detection and Visual Consistency",
+    "total_test_images": 1000,
+    "mean_clip_cosine_similarity": 0.2818487419784069,
+    "median_clip_cosine_similarity": 0.2866750657558441,
+    "low_reference_coverage_count": 359,
+    "low_reference_coverage_percentage": 35.9,
+    "reference_coverage_threshold": 0.5,
+    "method": [
+        "Reference-concept coverage heuristic",
+        "CLIP image-caption cosine similarity"
+    ],
+    "limitation": "These are screening signals, not confirmed hallucination labels. Reference captions may omit valid image details, and CLIP similarity does not guarantee factual correctness."
+}
